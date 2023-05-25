@@ -1,5 +1,5 @@
 
-<h1><strong>O I E</strong></h1>
+<h1><strong>L I X U</strong></h1>
 <h3><strong>その日私たちが見た花</strong></h3>
 
 <br>
