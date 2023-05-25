@@ -21,7 +21,7 @@
 <p><h1 align="left"> <strong>F E R R A M E N T A S</strong></h1>
 <img width="100%" src="https://i.imgur.com/MfFITjI.png"></p></div>
 <div>
-<br><br>
+<br>
 <p ><h1 align="right"><strong>E S C U T A N D O &nbsp; A G O R A</h1></strong></p>
 <p align="left" >
 <div style="margin-left: 100px;">
@@ -29,7 +29,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4eb1b0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img src=https://artfiles.alphacoders.com/118/118699.jpg  width="350" align="right">
 </div>
-<br><br>
+<br>
 <h1 align="center"><strong> Contatos </h1></strong>
 
 <p align="center">
