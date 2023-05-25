@@ -6,7 +6,7 @@
 <emphasis>C O N T E N T &nbsp; CREATOR &nbsp;
 <br> G R A P H I C  &nbsp; D E S I G N E R &nbsp; & &nbsp; D E V.
 <br> D I S C O R D &nbsp;  C O M M U N I T Y &nbsp; M A N A G E R.</emphasis>
-<img src="https://github.com/D3FaltXD/D3FaltXD/blob/9f2ea1d3dd0ad5a68b38df5153b809fd9bb2efce/Images/image_2022-09-17_164824017.png">
+<img src="https://i.imgur.com/ToUP734.png">
 </p>
 <p>
 <br> <br>
