@@ -15,8 +15,6 @@
 
  <p align="right">
 
-- pursuing a bachelor's degree in computer science. 26th batch of Cyber Security (Hons) graduates
-
 - I'm studying Python and C++ right now for <a href="https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series" target="blank">140 DSA Lec</a>
 
 - I'm open to freelance work.
