@@ -5,7 +5,7 @@
   </div>
   
 <img src="https://lanyard.kyrie25.me/api/369204238351466507?=7E37F9-B48EF7-E568C4&imgStyle=square" align="right"/>
-    <p>
+    </p>
       <strong>C O N T E N T &nbsp; CREATOR</strong>
       <br>
       <strong>G R A P H I C  &nbsp; D E S I G N E R &nbsp; &amp; &nbsp; D E V.</strong>
