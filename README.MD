@@ -10,21 +10,6 @@
 </p>
 <p>
 <br> <br>
-<div>
-<img align="left" height:75%; width:75; src="https://i.imgur.com/4TVmzsG.png">
-
- <p align="right">
-
-- Estou estudando Python.
-- Estou aprendendo sobre Machine Learning.
-- Sou **Desginer Gráfico**
-- Você pode me encontrar aqui!  **[LixU](https://lixu.carrd.co/)**
-
-</div>
-<br><br>
-<div>
-<br><br><br><br><br><br>
-	
 </div>
 <p><h1 align="left"> <strong>F E R R A M E N T A S</strong></h1>
 <img width="100%" src="https://i.imgur.com/MfFITjI.png"></p></div>
