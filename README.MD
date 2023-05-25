@@ -11,7 +11,7 @@
 <p>
 <br> <br>
 <div>
-<img align="left" height:85%; width:30; src="https://i.imgur.com/a2GCmVJ.png">
+<img align="left" height:75%; width:75; src="https://i.imgur.com/a2GCmVJ.png">
 
  <p align="right">
 
