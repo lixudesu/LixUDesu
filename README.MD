@@ -3,8 +3,7 @@
 <h3><strong>その日私たちが見た花</strong></h3>
     </p>
   </div>
-
-<p>
+  
 <img src="https://lanyard.kyrie25.me/api/369204238351466507?=7E37F9-B48EF7-E568C4&imgStyle=square" align="right"/>
     <p>
       <strong>C O N T E N T &nbsp; CREATOR</strong>
