@@ -1,11 +1,9 @@
 
 <h1><strong>L I X U</strong></h1>
 <h3><strong>その日私たちが見た花</strong></h3>
-
-[![Discord Presence](https://lanyard.kyrie25.me/api/369204238351466507)](https://discord.com/users/369204238351466507)
-
 <p>
-  <a [![Discord Presence](https://lanyard.kyrie25.me/api/369204238351466507)](https://discord.com/users/369204238351466507)
+  <a 
+[![Discord Presence](https://lanyard.kyrie25.me/api/369204238351466507)](https://discord.com/users/369204238351466507)
   </a>
   <emphasis>C O N T E N T &nbsp; CREATOR &nbsp;
   <br> G R A P H I C  &nbsp; D E S I G N E R &nbsp; & &nbsp; D E V.
