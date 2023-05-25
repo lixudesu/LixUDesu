@@ -20,7 +20,7 @@
 <div style="margin-left: 100px;">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4eb1b0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<img src=https://i.imgur.com/4TVmzsG.png align="right">
+<img src=https://artfiles.alphacoders.com/118/118699.jpg align="right">
 </div>
 <br> <br><br><br>
 <h1 align="center"><strong> Connect with me </h1></strong>
