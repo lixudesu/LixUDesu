@@ -4,11 +4,7 @@
     </p>
   </div>
 <p>
-<div style="display: inline-block;">
-  <a href="https://discord.com/users/369204238351466507" style="display: inline-block; vertical-align: middle;">
-    <img src="https://lanyard.kyrie25.me/api/369204238351466507" alt="Discord Presence" style="vertical-align: middle;">
-  </a>
-  <div style="display: inline-block; margin-left: 10px; vertical-align: middle;">
+https://lanyard.kyrie25.me/api/369204238351466507?=7E37F9-B48EF7-E568C4&imgStyle=square
     <p>
       <strong>C O N T E N T &nbsp; CREATOR</strong>
       <br>
