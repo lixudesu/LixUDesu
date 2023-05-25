@@ -2,6 +2,8 @@
 <h1><strong>L I X U</strong></h1>
 <h3><strong>その日私たちが見た花</strong></h3>
 
+[![Discord Presence](https://lanyard.kyrie25.me/api/369204238351466507)](https://discord.com/users/369204238351466507)
+
 <p aligh="right"><img src="https://github.com/D3FaltXD/D3FaltXD/blob/e27f915259c4fafdad8c18994dbd49d31d897960/Images/image%207.png"></p>
 <emphasis>C O N T E N T &nbsp; CREATOR &nbsp;
 <br> G R A P H I C  &nbsp; D E S I G N E R &nbsp; & &nbsp; D E V.
@@ -23,7 +25,7 @@
 <img src=https://artfiles.alphacoders.com/118/118699.jpg  width="350" align="right">
 </div>
 <br> <br><br><br>
-<h1 align="center"><strong> Connect with me </h1></strong>
+<h1 align="center"><strong> Contatos </h1></strong>
 
 <p align="center">
 
