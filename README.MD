@@ -2,19 +2,19 @@
 <h1><strong>L I X U</strong></h1>
 <h3><strong>その日私たちが見た花</strong></h3>
   </p>	
-<div style="display: flex; align-items: align="right";">
-  <a href="https://discord.com/users/369204238351466507">
+<div style="display: inline-block;">
+  <a href="https://discord.com/users/369204238351466507" style="display: inline-block; vertical-align: middle;">
     <img src="https://lanyard.kyrie25.me/api/369204238351466507" alt="Discord Presence" style="vertical-align: middle;">
   </a>
-  <p style="margin-left: 10px;">
-    <strong>C O N T E N T &nbsp; CREATOR</strong>
-    <br>
-    <strong>G R A P H I C  &nbsp; D E S I G N E R &nbsp; &amp; &nbsp; D E V.</strong>
-    <br>
-    <strong>D I S C O R D &nbsp;  C O M M U N I T Y &nbsp; M A N A G E R.</strong>
-  </p>	
-</div>
-
+  <div style="display: inline-block; margin-left: 10px; vertical-align: middle;">
+    <p>
+      <strong>C O N T E N T &nbsp; CREATOR</strong>
+      <br>
+      <strong>G R A P H I C  &nbsp; D E S I G N E R &nbsp; &amp; &nbsp; D E V.</strong>
+      <br>
+      <strong>D I S C O R D &nbsp;  C O M M U N I T Y &nbsp; M A N A G E R.</strong>
+    </p>
+  </div>
 <p>
 <br> <br>
 </div>
