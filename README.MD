@@ -1,8 +1,7 @@
 
 <h1><strong>O I E</strong></h1>
-<h3><strong>こんにちは世界</strong></h3>
+<h3><strong>その日私たちが見た花</strong></h3>
 
-<br>
 <br>
 <p aligh="right"><img src="https://github.com/D3FaltXD/D3FaltXD/blob/e27f915259c4fafdad8c18994dbd49d31d897960/Images/image%207.png"></p>
 <p><br>
