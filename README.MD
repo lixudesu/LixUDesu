@@ -34,7 +34,7 @@
 <p align="left" >
 <div style="margin-left: 100px;">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge8&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4eb1b0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img src=https://github.com/D3FaltXD/D3FaltXD/blob/f7bbc4c740c863c701588d4fd889ac4a9fda5759/Images/img%20right%201.png align="right">
 </div>
 <br> <br><br><br>
