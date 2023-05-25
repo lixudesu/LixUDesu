@@ -11,7 +11,7 @@
 <p>
 <br> <br>
 <div>
-<img align="left" height:85%; width:30; src="https://i.imgur.com/zvk1gdL.png">
+<img align="left" height:85%; width:30; src="https://i.imgur.com/a2GCmVJ.png">
 
  <p align="right">
 
@@ -24,25 +24,17 @@
 <br><br>
 <div>
 <br><br><br><br><br><br>
-<p><h1><strong>S T A T S</strong> </h1></p>
-<div align="left">
-
-
-
-![D3FALTXD's STATS](https://github-readme-stats.vercel.app/api?username=D3FaltXD&show_icons=true&theme=radical)
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3FaltXD&theme=radical)
 	
 </div>
-
-<p><h1 align="left"> <strong>T O O L S</strong></h1>
-<img width="100%" src="https://github.com/D3FaltXD/D3FaltXD/blob/f2ad32c1dcdb414cd838c42540e6aa0734b4efd0/Images/tools.png"></p></div>
+<p><h1 align="left"> <strong>F E R R A M E N T A S</strong></h1>
+<img width="100%" src="https://i.imgur.com/MfFITjI.png"></p></div>
 <div>
 <br> <br><br><br>
-<p ><h1 align="right"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
+<p ><h1 align="right"><strong>E S C U T A N D O &nbsp; A G O R A</h1></strong></p>
 <p align="left" >
 <div style="margin-left: 100px;">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=idqfn88p4khb76ky8ouqdkhc8&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge8&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img src=https://github.com/D3FaltXD/D3FaltXD/blob/f7bbc4c740c863c701588d4fd889ac4a9fda5759/Images/img%20right%201.png align="right">
 </div>
 <br> <br><br><br>
@@ -51,18 +43,10 @@
 <p align="center">
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
- <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sayan-roy-b138b9199/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/D3FaltXD">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/d3faltxd/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/G2Ahri">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
 
-</p>
-
-[![@D3FaltXD's Holopin board](https://holopin.io/api/user/board?user=d3falt)](https://holopin.io/@d3falt)
