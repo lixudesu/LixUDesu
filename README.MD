@@ -11,7 +11,7 @@
 <p>
 <br> <br>
 <div>
-<img align="left" height:75%; width:75; src="https://i.imgur.com/1vdhL12.png">
+<img align="left" height:75%; width:75; src="https://i.imgur.com/zvk1gdL.png">
 
  <p align="right">
 
@@ -20,7 +20,6 @@
 - Sou **Desginer Gráfico**
 - Você pode me encontrar aqui!  **[LixU](https://lixu.carrd.co/)**
 
-- Know about my experiences <a href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf" target="blank">Resume</a></p>
 </div>
 <br><br>
 <div>
