@@ -27,7 +27,7 @@
 <div style="margin-left: 100px;">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4eb1b0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<img src=https://i.imgur.com/LH9NAhG.png  width="370" align="right">
+<img src=https://i.imgur.com/LH9NAhG.png  width="380" align="right">
 </div>
 <br>
 <h1 align="center"><strong> Contatos </h1></strong>
