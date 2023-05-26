@@ -6,11 +6,11 @@
   
 <img src="https://lanyard.kyrie25.me/api/369204238351466507?=7E37F9-B48EF7-E568C4&imgStyle=square" align="right"/>
    <br><br><br>
-      <strong>C O N T E N T &nbsp; CREATOR</strong>
+      「 ✧ 」<strong>C O N T E N T &nbsp; CREATOR</strong>
       <br>
-      <strong>G R A P H I C  &nbsp; D E S I G N E R &nbsp; &amp; &nbsp; D E V.</strong>
+      「 ✧ 」<strong>G R A P H I C  &nbsp; D E S I G N E R &nbsp; &amp; &nbsp; D E V.</strong>
       <br>
-      <strong>D I S C O R D &nbsp;  C O M M U N I T Y &nbsp; M A N A G E R.</strong>
+      「 ✧ 」<strong>D I S C O R D &nbsp;  C O M M U N I T Y &nbsp; M A N A G E R.</strong>
     </p>
   </div>
 
