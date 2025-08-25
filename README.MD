@@ -4,7 +4,7 @@
     </p>
   </div>
   
-<img src="[![Discord Presence](https://lanyard.kyrie25.dev/api/224531635247251456)](https://discord.com/users/224531635247251456)" align="right"/>
+<img src="https://lanyard.kyrie25.dev/api/224531635247251456" align="right"/>
    <br><br><br>
       「 ✧ 」<strong>C O N T E N T &nbsp; CREATOR</strong>
       <br>
