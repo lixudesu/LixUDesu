@@ -4,7 +4,7 @@
     </p>
   </div>
   
-<img src="https://lanyard.kyrie25.dev/api/224531635247251456" align="right"/>
+<img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" align="right"/>
    <br><br><br>
       「 ✧ 」<strong>C O N T E N T &nbsp; CREATOR</strong>
       <br>
