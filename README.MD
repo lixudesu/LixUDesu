@@ -8,11 +8,11 @@
   <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" align="right"/>
   <br><br><br>
   <p>
-    「 💡 」<strong>C R E A T I V E :</strong> Dev • Designer • Content Creator
+    「 ✧ 」<strong>C R E A T I V E :</strong> Dev • Designer • Content Creator
     <br>
-    「 🧠 」<strong>S C I E N C E :</strong> Psychology & Neuroscience Student
+    「 ✧ 」<strong>S C I E N C E :</strong> Psychology & Neuroscience Student
     <br>
-    「 📊 」<strong>M A N A G E M E N T :</strong> Business & Community Manager
+    「 ✧ 」<strong>M A N A G E M E N T :</strong> Business & Community Manager
   </p>
 </div>
 
