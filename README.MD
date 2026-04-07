@@ -4,15 +4,17 @@
     </p>
   </div>
   
-<img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" align="right"/>
-   <br><br><br>
-      「 ✧ 」<strong>C O N T E N T &nbsp; CREATOR</strong>
-      <br>
-      「 ✧ 」<strong>G R A P H I C  &nbsp; D E S I G N E R &nbsp; &amp; &nbsp; D E V.</strong>
-      <br>
-      「 ✧ 」<strong>D I S C O R D &nbsp;  C O M M U N I T Y &nbsp; M A N A G E R.</strong>
-    </p>
-  </div>
+<div>
+  <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" align="right"/>
+  <br><br><br>
+  <p>
+    「 💡 」<strong>C R E A T I V E :</strong> Dev • Designer • Content Creator
+    <br>
+    「 🧠 」<strong>S C I E N C E :</strong> Psychology & Neuroscience Student
+    <br>
+    「 📊 」<strong>M A N A G E M E N T :</strong> Business & Community Manager
+  </p>
+</div>
 
   
 <p>
