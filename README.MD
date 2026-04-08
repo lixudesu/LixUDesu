@@ -14,7 +14,7 @@
   <br>
   「 ✧ 」<strong>C I Ê N C I A :</strong> Psicologia • Neurociência
   <br>
-  「 ✧ 」<strong>G E S T Ã O :</strong> Administração • Community Manager
+  「 ✧ 」<strong>G E S T Ã O :</strong> Administração • Gestão
 </p>
 </div>
 
