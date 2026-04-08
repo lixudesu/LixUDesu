@@ -10,9 +10,9 @@
 <p>
   「 ✧ 」<strong>C R I A T I V O :</strong> Dev • Designer • Conteúdo
   <br>
-  「 ✧ 」<strong>S I S T E M A S :</strong> Redes • Hardware • Segurança
+  「 ✧ 」<strong>T E C N O L O G I A :</strong> IA • Hardware • Segurança
   <br>
-  「 ✧ 」<strong>C I Ê N C I A :</strong> Psicologia & Neurociência
+  「 ✧ 」<strong>C I Ê N C I A :</strong> Psicologia • Neurociência
   <br>
   「 ✧ 」<strong>G E S T Ã O :</strong> Administrador • Community Manager
 </p>
