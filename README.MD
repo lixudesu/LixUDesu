@@ -6,8 +6,7 @@
 <br>
 <div>
   <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" align="right"/>
-
-<br><br>
+<br>
 <p>
   「 ✧ 」<strong>C R I A T I V O :</strong> Dev • Designer • Conteúdo<br><br>
   「 ✧ 」<strong>T E C N O L O G I A :</strong> IA • Hardware • Segurança<br><br>
