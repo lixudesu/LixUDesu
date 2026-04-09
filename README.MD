@@ -23,7 +23,7 @@
 
 <h1 align="left"><strong>S O B R E</strong></h1>
 <div>
-  <img align="right" width="350" src="https://i.imgur.com/ILCuZr0.png" style="margin-left: 15px; border-radius: 10px;">
+  <img align="right" width="350" src="https://i.imgur.com/1bMNcXV.png" style="margin-left: 15px; border-radius: 10px;">
   <p>
     Trabalho explorando a interseção entre tecnologia avançada e a experiência humana. Tenho forte atuação com <strong>Inteligência Artificial</strong>, <strong>UX Design</strong> (focado em usabilidade e fluxo) e estruturação de <strong>Bancos de Dados</strong> (SQL e NoSQL, focando na lógica independente da ferramenta específica). Além disso, possuo experiência no desenvolvimento e gerenciamento de bots automatizados para o Discord.<br><br>
     <img src="https://img.shields.io/badge/-AI-orange?style=flat-square&logo=openai&logoColor=white"/>
@@ -38,7 +38,7 @@
 
 <h1 align="right"><strong>A T U A L M E N T E</strong></h1>
 <div>
-  <img align="left" width="350" src="https://i.imgur.com/1bMNcXV.png" style="margin-right: 15px; border-radius: 10px;">
+  <img align="left" width="350" src="https://i.imgur.com/ILCuZr0.png" style="margin-right: 15px; border-radius: 10px;">
   <p>
     Minhas principais áreas de foco e desenvolvimento no momento:<br><br>
     🎂 Desenvolvendo um aplicativo especializado para lembretes de aniversário.<br>
