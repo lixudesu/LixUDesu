@@ -20,7 +20,8 @@
 </div>
 
 <br clear="both">
-<hr> <h1 align="left"><strong>S O B R E</strong></h1>
+
+<h1 align="left"><strong>S O B R E</strong></h1>
 <div>
   <img align="left" width="350" src="https://i.imgur.com/kPnotkU.png" style="margin-right: 15px; border-radius: 10px;">
   <p>
@@ -32,14 +33,6 @@
   </p>
 </div>
 <br clear="both">
-
-<div align="center">
-  <br>
-  <a href="LINK_DO_SEU_SITE_DE_PROJETOS_AQUI">
-    <img src="https://img.shields.io/badge/🚀_Acessar_Meus_Projetos-2C2C2C?style=for-the-badge" alt="Meus Projetos"/>
-  </a>
-  <br>
-</div>
 
 <br>
 
