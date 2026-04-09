@@ -50,10 +50,6 @@ Troque estes links se quiser personalizar mais:
   </a>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://i.imgur.com/kPnotkU.png" alt="Divisor" />
-</p>
-
 <h1 align="left"><strong>S O B R E</strong></h1>
 
 <p>
