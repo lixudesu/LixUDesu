@@ -26,11 +26,11 @@
   
 <p style="font-size: 20px;">
   Adoro criar coisas, então estou sempre aprendendo algo novo. Meu primeiro contato com programação foi aos 13 anos, com Small Basic, e depois disso fui explorando de tudo um pouco, até Flash. Atualmente uso muito Python, mas mexo com várias outras linguagem.
-  Trabalho com banco de dados, redes, segurança, hardware e software. Também estou desenvolvendo a ideia de um jogo e evoluindo minha própria IA pessoal, porque quero que ela deixe de ser apenas um modelo estático.
-  Fiz Administração e agora estou cursando Psicologia, com foco em neurociência e neurociência computacional. Sim, a ideia é realmente criar uma IA de verdade, kkk.
+  Trabalho com banco de dados, redes, segurança, hardware e software. 
+  Fiz Administração e agora estou cursando Psicologia, com foco em neurociência e neurociência computacional. 
   Já desenvolvi sites para amigos, bots para Discord, jogos, programas e até uma interface completa para a minha IA, também estou pensando em criar um sistema operacional só para ela no futuro.
   Além da programação, também faço designer e trabalho há 8 anos em uma gráfica. Sou muito fã da estética retrô dos anos 2000, de animes e mangás, e crio conteúdo online sobre assuntos que eu gosto.
-  No geral, sou movida por ideias, criatividade e curiosidade. Gosto de aprender e aprendo muito rápido, construir coisas novas e encontrar soluções fora do comum. Tenho muitas ideias absurdas, algumas geniais, e costumo pensar além resolver problemas de forma criativa.
+  No geral, sou movida por ideias, criatividade e curiosidade. Gosto de aprender e aprendo muito rápido, adoro construir coisas novas e encontrar soluções fora do comum. Tenho muitas ideias absurdas, algumas geniais, e costumo pensar além resolver problemas de forma criativa.
   <br><br>
   ✧ <a href="https://moebot.uwu.ai/"><strong>Discord Bot: Moe UwU</strong></a>
 </p>
@@ -48,14 +48,16 @@
 <div>
   <img align="left" width="350" src="https://i.imgur.com/ILCuZr0.png" style="margin-right: 15px; border-radius: 10px;">
   
-  <br><br><br><br><br><br><br>
+  <br><br><br><br><br>
   
   <p style="font-size: 20px;">
     Minhas principais áreas de foco e desenvolvimento no momento:<br><br>
     ✧ Fazendo um app de aniversários.<br>
     ✧ Estudando <strong>Psicologia e Neurociência Computacional</strong>.<br>
-    ✧ Criando IA Continual Learning.<br>
-    ✧ Fale com minha IA Umi, <a href="https://discord.gg/servidor" target="_blank">UMI</a>.
+    ✧ Criando IA Continual Learning. Fale ela, <a href="https://discord.gg/servidor" target="_blank">UMI</a>.<br>
+    ✧ Desenvolvendo um Jogo (Vai demorarkkkk).<br>
+    ✧ Apredendo modelagem no blender.
+
   </p>
 </div>
 <br clear="both">
