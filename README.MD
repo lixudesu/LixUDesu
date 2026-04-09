@@ -26,12 +26,16 @@
   
   <br><br><br><br><br><br>
   
-  <p style="font-size: 20px;">
-    Trabalho explorando a interseção entre tecnologia avançada e a experiência humana. Estudo <strong>Inteligência Artificial</strong>, <strong> Design</strong> e estruturação de <strong>Bancos de Dados</strong>.
-    <br><br>
-    ✧ <a href="https://moebot.uwu.ai/" target="_blank"><strong>Discord Bot: Moe UwU</strong></a>
-  </p>
-
+<p style="font-size: 20px;">
+  Adoro criar coisas, então estou sempre aprendendo algo novo. Meu primeiro contato com programação foi aos 13 anos, com Small Basic, e depois disso fui explorando de tudo um pouco, até Flash. Atualmente uso muito Python, mas mexo com várias áreas e tecnologias diferentes.
+  Trabalho com banco de dados, redes, segurança, hardware e software. Também estou desenvolvendo a ideia de um jogo e evoluindo minha própria IA pessoal, porque quero que ela deixe de ser apenas um modelo estático e se torne algo mais vivo, adaptável e realmente útil.
+  Fiz Administração e agora estou cursando Psicologia, com foco em neurociência e neurociência computacional. Sim, a ideia é realmente criar uma IA de verdade, kkk.
+  Aprendo muito rápido e gosto de entender profundamente tudo o que faço. Já desenvolvi sites para amigos, bots para Discord, jogos, programas e até uma interface completa para a minha IA. Também penso em criar um sistema operacional só para ela no futuro.
+  Além da programação, também sou designer e trabalho há 8 anos em gráfica. Sou muito fã da estética retrô dos anos 2000, de animes e mangás, e gosto de criar conteúdo online sobre assuntos que fazem parte do meu universo.
+  No geral, sou uma pessoa movida por ideias, criatividade e curiosidade. Gosto de aprender, construir coisas novas e encontrar soluções fora do comum. Tenho muitas ideias absurdas, algumas geniais, e costumo pensar além do óbvio para resolver problemas de forma criativa.
+  <br><br>
+  ✧ <a href="https://moebot.uwu.ai/"><strong>Discord Bot: Moe UwU</strong></a>
+</p>
   <p style="font-size: 20px;">
     <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
     <a href="https://instagram.com/lixudesu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
