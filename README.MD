@@ -62,15 +62,16 @@
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=1ce4f2" width="300" />
   </a>
-  
-  <img src="https://github-readme-stats-three-xi-68.vercel.app/api?username=lixudesu&show_icons=true&theme=tokyonight&hide_border=true" width="320" />
-  
-  <img src="https://github-readme-stats-three-xi-68.vercel.app/api/top-langs/?username=lixudesu&layout=compact&theme=tokyonight&hide_border=true" width="320" />
+
+  <img src="https://github-readme-stats-three-xi-68.vercel.app/api?username=lixudesu&show_icons=true&theme=tokyonight&hide_border=true" width="300" />
+
+  <img src="https://github-readme-stats-three-xi-68.vercel.app/api/top-langs/?username=lixudesu&layout=compact&theme=tokyonight&hide_border=true" width="300" />
 </div>
 
-<br>
+<br><br>
 
 <p align="center">
-  <img src="https://i.imgur.com/MDrc9fn.png" width="360" />
+  <img src="https://i.imgur.com/MDrc9fn.png" width="520" />
 </p>
+
 
