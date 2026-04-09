@@ -1,7 +1,8 @@
 <div align="center">
-  <h1><strong>L I X U</strong></h1>
+  <img src="https://i.imgur.com/hMSDNuP.png" alt="LIXU" />
   <h3><strong>その日私たちが見た花</strong></h3>
 </div>
+
 
 <br>
 <div>
