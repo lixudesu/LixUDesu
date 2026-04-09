@@ -74,3 +74,8 @@
 <p align="center">
   <img src="https://i.imgur.com/MDrc9fn.png" width="520" />
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/4Hjpz9I.png" alt="divider" />
+</p>
+
