@@ -29,8 +29,8 @@
   Trabalho com banco de dados, redes, segurança, hardware e software. Também estou desenvolvendo a ideia de um jogo e evoluindo minha própria IA pessoal, porque quero que ela deixe de ser apenas um modelo estático.
   Fiz Administração e agora estou cursando Psicologia, com foco em neurociência e neurociência computacional. Sim, a ideia é realmente criar uma IA de verdade, kkk.
   Já desenvolvi sites para amigos, bots para Discord, jogos, programas e até uma interface completa para a minha IA, também estou pensando em criar um sistema operacional só para ela no futuro.
-  Além da programação, também sou designer e trabalho há 8 anos em uma gráfica. Sou muito fã da estética retrô dos anos 2000, de animes e mangás, e crio conteúdo online sobre assuntos que eu gosto.
-  No geral, sou uma pessoa movida por ideias, criatividade e curiosidade. Gosto de aprender e aprendo muito rápido, construir coisas novas e encontrar soluções fora do comum. Tenho muitas ideias absurdas, algumas geniais, e costumo pensar além resolver problemas de forma criativa.
+  Além da programação, também faço designer e trabalho há 8 anos em uma gráfica. Sou muito fã da estética retrô dos anos 2000, de animes e mangás, e crio conteúdo online sobre assuntos que eu gosto.
+  No geral, sou movida por ideias, criatividade e curiosidade. Gosto de aprender e aprendo muito rápido, construir coisas novas e encontrar soluções fora do comum. Tenho muitas ideias absurdas, algumas geniais, e costumo pensar além resolver problemas de forma criativa.
   <br><br>
   ✧ <a href="https://moebot.uwu.ai/"><strong>Discord Bot: Moe UwU</strong></a>
 </p>
