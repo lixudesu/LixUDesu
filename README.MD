@@ -48,7 +48,7 @@
 <div>
   <img align="left" width="350" src="https://i.imgur.com/ILCuZr0.png" style="margin-right: 15px; border-radius: 10px;">
   
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
   
   <p style="font-size: 20px;">
     Minhas principais áreas de foco e desenvolvimento no momento:<br><br>
