@@ -21,16 +21,17 @@
 <div>
   <img align="right" width="350" src="https://i.imgur.com/1bMNcXV.png" style="margin-left: 15px; border-radius: 10px;">
   
-  <br><br><br><br>
+  <br><br><br>
   
   <p style="font-size: 16px;">
-    Trabalho explorando a interseção entre tecnologia avançada e a experiência humana. Tenho forte atuação com <strong>Inteligência Artificial</strong>, <strong>UX Design</strong> (focado em usabilidade e fluxo) e estruturação de <strong>Bancos de Dados</strong> (SQL e NoSQL, focando na lógica independente da ferramenta específica). Além disso, possuo experiência no desenvolvimento e gerenciamento de bots automatizados para o Discord.<br><br>
-    
-    <a href="LINK_DA_BIO_AQUI"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
-    <a href="LINK_DO_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="LINK_DO_INSTAGRAM_AQUI"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://github.com/lixudesu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    Trabalho explorando a interseção entre tecnologia avançada e a experiência humana. Tenho forte atuação com <strong>Inteligência Artificial</strong>, <strong>UX Design</strong> (focado em usabilidade e fluxo) e estruturação de <strong>Bancos de Dados</strong> (SQL e NoSQL, focando na lógica independente da ferramenta específica). Além disso, possuo experiência no desenvolvimento e gerenciamento de bots automatizados para o Discord.
   </p>
+<p>
+<a href="LINK_DA_BIO_AQUI"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
+<a href="LINK_DO_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="LINK_DO_INSTAGRAM_AQUI"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://github.com/lixudesu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 </div>
 <br clear="both">
 
