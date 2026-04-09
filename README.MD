@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/hMSDNuP.png" alt="LIXU" />
+  <img src="https://i.imgur.com/hMSDNuP.png" alt="LIXU" width="260" />
   <h3><strong>その日私たちが見た花</strong></h3>
 </div>
 
@@ -76,6 +76,6 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/4Hjpz9I.png" alt="divider" />
+  <img src="https://i.imgur.com/4Hjpz9I.png" alt="divider" width="400" />
 </p>
 
