@@ -7,7 +7,7 @@
 <div>
   <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" align="right"/>
 <br>
-<p>
+<p style="font-size: 20px;">
   「 ✧ 」<strong>C R I A T I V O :</strong> Dev • Designer • Conteúdo<br><br>
   「 ✧ 」<strong>T E C N O L O G I A :</strong> IA • Hardware • Segurança<br><br>
   「 ✧ 」<strong>C I Ê N C I A :</strong> Psicologia • Neurociência<br><br>
@@ -22,17 +22,17 @@
   
   <br><br><br><br><br><br>
   
-  <p style="font-size: 16px;">
+  <p style="font-size: 20px;">
     Trabalho explorando a interseção entre tecnologia avançada e a experiência humana. Estudo <strong>Inteligência Artificial</strong>, <strong> Design</strong> e estruturação de <strong>Bancos de Dados</strong>.
- 
-✧ <a href="https://moebot.uwu.ai/" target="_blank"><strong>Discord Bot: Moe UwU</strong></a>
-
+    <br><br>
+    ✧ <a href="https://moebot.uwu.ai/" target="_blank"><strong>Discord Bot: Moe UwU</strong></a>
   </p>
-<p>
-<a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
-<a href="https://instagram.com/lixudesu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://github.com/lixudesu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+
+  <p style="font-size: 20px;">
+    <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
+    <a href="https://instagram.com/lixudesu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://github.com/lixudesu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
 </div>
 <br clear="both">
 
@@ -44,12 +44,12 @@
   
   <br><br><br><br><br><br><br>
   
-  <p style="font-size: 16px;">
+  <p style="font-size: 20px;">
     Minhas principais áreas de foco e desenvolvimento no momento:<br><br>
-    ✧  Fazendo um app de aniversários.<br>
-    ✧  Estudando <strong>Psicologia e Neurociência Computacional</strong>.<br>
-    ✧  Criando IA Continual Learning.<br>
-    ✧  Fale com minha IA Umi, <a href="https://discord.gg/servidor" target="_blank">venha conversar no meu servidor Umi no Discord</a>.
+    ✧ Fazendo um app de aniversários.<br>
+    ✧ Estudando <strong>Psicologia e Neurociência Computacional</strong>.<br>
+    ✧ Criando IA Continual Learning.<br>
+    ✧ Fale com minha IA Umi, <a href="https://discord.gg/servidor" target="_blank">venha conversar no meu servidor Umi no Discord</a>.
   </p>
 </div>
 <br clear="both">
@@ -73,5 +73,3 @@
 <p align="center">
   <img src="https://i.imgur.com/MDrc9fn.png" width="520" />
 </p>
-
-
