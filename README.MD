@@ -18,7 +18,7 @@
 
 <h1 align="left"><strong>S O B R E</strong></h1>
 <div>
-  <img align="right" width="350" src="https://i.imgur.com/1bMNcXV.png" style="margin-left: 15px; border-radius: 10px;">
+  <img align="right" width="350" src="https://i.imgur.com/LH9NAhG.png" style="margin-left: 15px; border-radius: 10px;">
   
   <br><br><br><br><br><br>
   
