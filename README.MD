@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://i.imgur.com/hMSDNuP.png" alt="LIXU" width="600" />
+  <img src="https://i.imgur.com/hMSDNuP.png" alt="LIXU" width="650" />
+  <br>
+  <hr width="60%">
   <h3><strong>その日私たちが見た花</strong></h3>
 </div>
+
 
 
 <br>
