@@ -23,7 +23,8 @@
 <h1 align="left"><strong>S O B R E</strong></h1>
 <div>
   <img align="right" width="350" src="https://i.imgur.com/LH9NAhG.png" style="margin-left: 15px; border-radius: 10px;">
-  
+
+<br>  
 <p align="justify" style="font-size: 20px;">
   Adoro criar coisas, então estou sempre aprendendo algo novo. Meu primeiro contato com programação foi aos 13 anos, com Small Basic, e depois disso fui explorando de tudo um pouco, até Flash. Atualmente uso muito Python, mas mexo com várias outras linguagem.
   Trabalho com banco de dados, redes, segurança, hardware e software. 
