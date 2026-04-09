@@ -4,7 +4,6 @@
 </div>
 
 <br>
-<br>
 <div>
   <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" align="right"/>
 <br>
