@@ -25,12 +25,12 @@
   <img align="right" width="350" src="https://i.imgur.com/LH9NAhG.png" style="margin-left: 15px; border-radius: 10px;">
   
 <p style="font-size: 20px;">
-  Adoro criar coisas, então estou sempre aprendendo algo novo. Meu primeiro contato com programação foi aos 13 anos, com Small Basic, e depois disso fui explorando de tudo um pouco, até Flash. Atualmente uso muito Python, mas mexo com várias áreas e tecnologias diferentes.
-  Trabalho com banco de dados, redes, segurança, hardware e software. Também estou desenvolvendo a ideia de um jogo e evoluindo minha própria IA pessoal, porque quero que ela deixe de ser apenas um modelo estático e se torne algo mais vivo, adaptável e realmente útil.
+  Adoro criar coisas, então estou sempre aprendendo algo novo. Meu primeiro contato com programação foi aos 13 anos, com Small Basic, e depois disso fui explorando de tudo um pouco, até Flash. Atualmente uso muito Python, mas mexo com várias outras linguagem.
+  Trabalho com banco de dados, redes, segurança, hardware e software. Também estou desenvolvendo a ideia de um jogo e evoluindo minha própria IA pessoal, porque quero que ela deixe de ser apenas um modelo estático.
   Fiz Administração e agora estou cursando Psicologia, com foco em neurociência e neurociência computacional. Sim, a ideia é realmente criar uma IA de verdade, kkk.
-  Aprendo muito rápido e gosto de entender profundamente tudo o que faço. Já desenvolvi sites para amigos, bots para Discord, jogos, programas e até uma interface completa para a minha IA. Também penso em criar um sistema operacional só para ela no futuro.
-  Além da programação, também sou designer e trabalho há 8 anos em gráfica. Sou muito fã da estética retrô dos anos 2000, de animes e mangás, e gosto de criar conteúdo online sobre assuntos que fazem parte do meu universo.
-  No geral, sou uma pessoa movida por ideias, criatividade e curiosidade. Gosto de aprender, construir coisas novas e encontrar soluções fora do comum. Tenho muitas ideias absurdas, algumas geniais, e costumo pensar além do óbvio para resolver problemas de forma criativa.
+  Já desenvolvi sites para amigos, bots para Discord, jogos, programas e até uma interface completa para a minha IA, também estou pensando em criar um sistema operacional só para ela no futuro.
+  Além da programação, também sou designer e trabalho há 8 anos em uma gráfica. Sou muito fã da estética retrô dos anos 2000, de animes e mangás, e crio conteúdo online sobre assuntos que eu gosto.
+  No geral, sou uma pessoa movida por ideias, criatividade e curiosidade. Gosto de aprender e aprendo muito rápido, construir coisas novas e encontrar soluções fora do comum. Tenho muitas ideias absurdas, algumas geniais, e costumo pensar além resolver problemas de forma criativa.
   <br><br>
   ✧ <a href="https://moebot.uwu.ai/"><strong>Discord Bot: Moe UwU</strong></a>
 </p>
