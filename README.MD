@@ -24,8 +24,6 @@
 <div>
   <img align="right" width="350" src="https://i.imgur.com/LH9NAhG.png" style="margin-left: 15px; border-radius: 10px;">
   
-  <br>
-  
 <p style="font-size: 20px;">
   Adoro criar coisas, então estou sempre aprendendo algo novo. Meu primeiro contato com programação foi aos 13 anos, com Small Basic, e depois disso fui explorando de tudo um pouco, até Flash. Atualmente uso muito Python, mas mexo com várias áreas e tecnologias diferentes.
   Trabalho com banco de dados, redes, segurança, hardware e software. Também estou desenvolvendo a ideia de um jogo e evoluindo minha própria IA pessoal, porque quero que ela deixe de ser apenas um modelo estático e se torne algo mais vivo, adaptável e realmente útil.
