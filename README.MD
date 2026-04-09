@@ -7,12 +7,12 @@
 
 <div>
   <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" align="right"/>
-  <p>
-    「 ✧ 」<strong>C R I A T I V O :</strong> Dev • Designer • Conteúdo<br>
-    「 ✧ 」<strong>T E C N O L O G I A :</strong> IA • Hardware • Segurança<br>
-    「 ✧ 」<strong>C I Ê N C I A :</strong> Psicologia • Neurociência<br>
-    「 ✧ 」<strong>G E S T Ã O :</strong> Administração • Gestão
-  </p>
+<p>
+  「 ✧ 」<strong>C R I A T I V O :</strong> Dev • Designer • Conteúdo<br><br>
+  「 ✧ 」<strong>T E C N O L O G I A :</strong> IA • Hardware • Segurança<br><br>
+  「 ✧ 」<strong>C I Ê N C I A :</strong> Psicologia • Neurociência<br><br>
+  「 ✧ 」<strong>G E S T Ã O :</strong> Administração • Gestão
+</p>
 </div>
 
 <br clear="both">
