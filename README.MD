@@ -55,7 +55,7 @@
     ✧ Fazendo um app de aniversários.<br>
     ✧ Estudando <strong>Psicologia e Neurociência Computacional</strong>.<br>
     ✧ Criando IA Continual Learning.<br>
-    ✧ Fale com minha IA Umi, <a href="https://discord.gg/servidor" target="_blank">venha conversar no meu servidor Umi no Discord</a>.
+    ✧ Fale com minha IA Umi, <a href="https://discord.gg/servidor" target="_blank">UMI</a>.
   </p>
 </div>
 <br clear="both">
