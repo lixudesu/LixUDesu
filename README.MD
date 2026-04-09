@@ -20,13 +20,12 @@
 <div>
   <img align="right" width="350" src="https://i.imgur.com/1bMNcXV.png" style="margin-left: 15px; border-radius: 10px;">
   
-  <br><br><br><br><br><br><br>
+  <br><br><br><br><br><br>
   
   <p style="font-size: 16px;">
     Trabalho explorando a interseção entre tecnologia avançada e a experiência humana. Estudo <strong>Inteligência Artificial</strong>, <strong> Design</strong> e estruturação de <strong>Bancos de Dados</strong>.
-
-✧ <a href="https://moebot.uwu.ai/"><strong>Discord Bot: Moe</strong></a>.
-
+ 
+✧ <a href="https://moebot.uwu.ai/"> target="_blank"><strong>Discord Bot: Moe</strong></a>
 
   </p>
 <p>
