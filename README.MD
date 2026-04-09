@@ -21,7 +21,7 @@
 <div>
   <img align="right" width="350" src="https://i.imgur.com/1bMNcXV.png" style="margin-left: 15px; border-radius: 10px;">
   
-  <br><br><br>
+  <br><br><br><br><br>
   
   <p style="font-size: 16px;">
     Trabalho explorando a interseção entre tecnologia avançada e a experiência humana. Tenho forte atuação com <strong>Inteligência Artificial</strong>, <strong>UX Design</strong> (focado em usabilidade e fluxo) e estruturação de <strong>Bancos de Dados</strong> (SQL e NoSQL, focando na lógica independente da ferramenta específica). Além disso, possuo experiência no desenvolvimento e gerenciamento de bots automatizados para o Discord.
