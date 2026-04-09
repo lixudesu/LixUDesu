@@ -23,12 +23,15 @@
   <br><br><br><br><br><br><br>
   
   <p style="font-size: 16px;">
-    Trabalho explorando a interseção entre tecnologia avançada e a experiência humana. Tenho forte atuação com <strong>Inteligência Artificial</strong>, <strong>UX Design</strong> (focado em usabilidade e fluxo) e estruturação de <strong>Bancos de Dados</strong> (SQL e NoSQL, focando na lógica independente da ferramenta específica). Além disso, possuo experiência no desenvolvimento e gerenciamento de bots automatizados para o Discord.
+    Trabalho explorando a interseção entre tecnologia avançada e a experiência humana. Estudo <strong>Inteligência Artificial</strong>, <strong> Design</strong> e estruturação de <strong>Bancos de Dados</strong>.
+
+✧ <a href="https://moebot.uwu.ai/"><strong>Discord Bot: Moe</strong></a>.
+
+
   </p>
 <p>
-<a href="LINK_DA_BIO_AQUI"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
-<a href="LINK_DO_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="LINK_DO_INSTAGRAM_AQUI"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://bio.lixudesu.com/"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
+<a href="https://instagram.com/lixudesu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://github.com/lixudesu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
@@ -44,10 +47,10 @@
   
   <p style="font-size: 16px;">
     Minhas principais áreas de foco e desenvolvimento no momento:<br><br>
-    🎂 Desenvolvendo um aplicativo especializado para lembretes de aniversário.<br>
-    🧠 Aprofundando conhecimentos em <strong>Psicologia e Neurociência Computacional</strong>.<br>
-    🤖 Criando um framework all-in-one inovador focado em LLMs.<br>
-    💬 Para discussões sobre LLMs e IA, <a href="LINK_DO_SERVIDOR_UMI_AQUI">venha conversar no meu servidor Umi no Discord</a>.
+    ✧  Fazendo um app de aniversários.<br>
+    ✧  Estudando <strong>Psicologia e Neurociência Computacional</strong>.<br>
+    ✧  Criando IA Continual Learning.<br>
+    ✧  Fale com minha IA Umi, <a href="https://discord.gg/servidor">venha conversar no meu servidor Umi no Discord</a>.
   </p>
 </div>
 <br clear="both">
