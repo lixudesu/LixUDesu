@@ -22,7 +22,7 @@
 <br clear="both">
 <hr> <h1 align="left"><strong>S O B R E</strong></h1>
 <div>
-  <img align="left" width="220" src="https://i.imgur.com/kPnotkU.png" style="margin-right: 15px; border-radius: 10px;">
+  <img align="left" width="350" src="https://i.imgur.com/kPnotkU.png" style="margin-right: 15px; border-radius: 10px;">
   <p>
     Trabalho explorando a interseção entre tecnologia avançada e a experiência humana. Tenho forte atuação com <strong>Inteligência Artificial</strong>, <strong>UX Design</strong> (focado em usabilidade e fluxo) e estruturação de <strong>Bancos de Dados</strong> (SQL e NoSQL, focando na lógica independente da ferramenta específica). Além disso, possuo experiência no desenvolvimento e gerenciamento de bots automatizados para o Discord.<br><br>
     <img src="https://img.shields.io/badge/-AI-orange?style=flat-square&logo=openai&logoColor=white"/>
@@ -34,16 +34,18 @@
 <br clear="both">
 
 <div align="center">
+  <br>
   <a href="LINK_DO_SEU_SITE_DE_PROJETOS_AQUI">
     <img src="https://img.shields.io/badge/🚀_Acessar_Meus_Projetos-2C2C2C?style=for-the-badge" alt="Meus Projetos"/>
   </a>
+  <br>
 </div>
 
 <br>
 
 <h1 align="right"><strong>A T U A L M E N T E</strong></h1>
 <div>
-  <img align="left" width="220" src="https://i.imgur.com/1bMNcXV.png" style="margin-right: 15px; border-radius: 10px;">
+  <img align="left" width="350" src="https://i.imgur.com/1bMNcXV.png" style="margin-right: 15px; border-radius: 10px;">
   <p>
     Minhas principais áreas de foco e desenvolvimento no momento:<br><br>
     🎂 Desenvolvendo um aplicativo especializado para lembretes de aniversário.<br>
