@@ -1,120 +1,77 @@
-<!--
-Troque estes links se quiser personalizar mais:
-- INSTAGRAM_URL
-- LINKEDIN_URL
-- UMI_DISCORD_URL
--->
-
 <div align="center">
-  <h3><strong>L I X U</strong></h3>
-  <p><strong>その日私たちが見た花</strong></p>
-</div>
+  <h1><strong>L I X U</strong></h1>
+  <h3><strong>その日私たちが見た花</strong></h3>
 
-<div align="left">
-  <img align="right" width="46%" src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" alt="Discord Presence" />
-  <br><br><br>
   <p>
-    「 ✧ 」<strong>C R I A T I V O :</strong> Dev &bull; Designer &bull; Conteudo
-    <br>
-    「 ✧ 」<strong>T E C N O L O G I A :</strong> IA &bull; Hardware &bull; Seguranca
-    <br>
-    「 ✧ 」<strong>C I E N C I A :</strong> Psicologia &bull; Neurociencia
-    <br>
-    「 ✧ 」<strong>G E S T A O :</strong> Administracao &bull; Gestao
+    <a href="LINK_DA_SUA_BIO"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
+    <a href="LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="LINK_DO_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 </div>
 
-<br clear="right">
+<br>
 
-<p align="center">
-  <a href="https://lixu.uwu.ai/">
-    <img src="https://img.shields.io/badge/BIO-1f2430?style=for-the-badge&logo=bookstack&logoColor=white" alt="Bio" />
-  </a>
-  <a href="LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-1f2430?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="INSTAGRAM_URL">
-    <img src="https://img.shields.io/badge/INSTAGRAM-1f2430?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/lixudesu">
-    <img src="https://img.shields.io/badge/GITHUB-1f2430?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/lixudesu?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJETOS-1f2430?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" />
-  </a>
-  <a href="UMI_DISCORD_URL">
-    <img src="https://img.shields.io/badge/UMI_DISCORD-1f2430?style=for-the-badge&logo=discord&logoColor=white" alt="UMI Discord" />
-  </a>
-</p>
+<div>
+  <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" align="right"/>
+  <p>
+    「 ✧ 」<strong>C R I A T I V O :</strong> Dev • Designer • Conteúdo<br>
+    「 ✧ 」<strong>T E C N O L O G I A :</strong> IA • Hardware • Segurança<br>
+    「 ✧ 」<strong>C I Ê N C I A :</strong> Psicologia • Neurociência<br>
+    「 ✧ 」<strong>G E S T Ã O :</strong> Administração • Gestão
+  </p>
+</div>
 
-<p align="center">
-  <img width="100%" src="https://i.imgur.com/kPnotkU.png" alt="Divisor" />
-</p>
-
-<h1 align="left"><strong>S O B R E</strong></h1>
-
+<br clear="both">
+<hr> <h1 align="left"><strong>S O B R E</strong></h1>
 <p>
-  Mexo com <strong>IA</strong>, <strong>UX Design</strong> e <strong>banco de dados</strong>,
-  sempre tentando unir tecnologia, identidade visual e experiencia do usuario.
-</p>
-<p>
-  Nao fico preso a um programa ou stack especifica. Gosto de aprender a ferramenta que fizer mais sentido para o projeto e adaptar o processo conforme a ideia pede.
-</p>
-<p>
-  Ja desenvolvi <strong>bots para Discord</strong> e continuo explorando projetos que misturam automacao, comunidade, produto e pesquisa.
+  Trabalho explorando a interseção entre tecnologia e a experiência humana. Tenho forte atuação com <strong>Inteligência Artificial</strong>, <strong>UX Design</strong> e estruturação de <strong>Bancos de Dados</strong> (sempre focado nos melhores conceitos e lógica, independente de ferramentas específicas). Em meu histórico, também já desenvolvi e gerenciei bots para o Discord.
 </p>
 
 <p align="center">
-  <a href="https://github.com/lixudesu?tab=repositories">
-    <img src="https://img.shields.io/badge/VER_PROJETOS-1f2430?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos" />
+  <img width="100%" src="https://i.imgur.com/kPnotkU.png" alt="Divisor Tachibana">
+</p>
+
+<div align="center">
+  <a href="LINK_DO_SEU_SITE_DE_PROJETOS">
+    <img src="https://img.shields.io/badge/🚀_Acessar_Meus_Projetos-2C2C2C?style=for-the-badge" alt="Meus Projetos"/>
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img width="100%" src="https://i.imgur.com/1bMNcXV.png" alt="Divisor" />
-</p>
+<br>
 
 <h1 align="right"><strong>A T U A L M E N T E</strong></h1>
-
-<table>
-  <tr>
-    <td width="64%" valign="middle" align="left">
-      <p>
-        Desenvolvendo um aplicativo para lembrar aniversarios de forma simples e util.
-        <br><br>
-        Estudando psicologia e neurociencia computacional.
-        <br><br>
-        Criando um framework proprio para LLMs dentro do ecossistema da UMI.
-      </p>
-    </td>
-    <td width="36%" valign="middle" align="center">
-      <img width="250" src="https://i.imgur.com/LH9NAhG.png" alt="Tachibana" />
-    </td>
-  </tr>
-</table>
+<div align="right">
+  <p>
+    🎂 Desenvolvendo um aplicativo para lembretes de aniversário.<br>
+    🧠 Mergulhando nos estudos de <strong>Psicologia e Neurociência Computacional</strong>.<br>
+    🤖 Criando um framework <i>all-in-one</i> para LLMs.<br>
+    💬 Quer falar sobre IA? <a href="LINK_DO_DISCORD_UMI">Entre no meu servidor Umi no Discord!</a>
+  </p>
+</div>
 
 <p align="center">
-  <a href="UMI_DISCORD_URL">
-    <img src="https://img.shields.io/badge/FALAR_COM_A_UMI-1f2430?style=for-the-badge&logo=discord&logoColor=white" alt="Falar com a UMI" />
-  </a>
+  <img width="100%" src="https://i.imgur.com/1bMNcXV.png" alt="Divisor">
 </p>
+
+<br>
 
 <h1 align="left"><strong>S T A T U S &nbsp; A G O R A</strong></h1>
 
-<table>
-  <tr>
-    <td width="27%" align="center" valign="top">
-      <a href="https://open.spotify.com/user/e5jw225l5n5q5bd05d7dgn3ge">
-        <img width="240" src="https://spotify-github-profile.kittinanx.com/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify" />
-      </a>
-    </td>
-    <td width="46%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lixudesu&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      <br>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixudesu&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-    </td>
-    <td width="27%" align="center" valign="top">
-      <img width="220" src="https://i.imgur.com/LH9NAhG.png" alt="Tachibana" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="https://i.imgur.com/LH9NAhG.png" width="350" align="right" alt="Tachibana">
+
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_ID_DO_SPOTIFY&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" width="280" alt="Spotify" />
+  </a>
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" width="380" alt="GitHub Stats"/>
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="380" alt="Top Languages"/>
+</div>
+
+<br clear="both">
