@@ -5,29 +5,24 @@ Troque estes links se quiser personalizar mais:
 - UMI_DISCORD_URL
 -->
 
-<div align="center">
-  <h1><strong>L I X U</strong></h1>
-  <h3><strong>その日私たちが見た花</strong></h3>
+<h3 align="center"><strong>L I X U</strong></h3>
+<p align="center"><strong>その日私たちが見た花</strong></p>
+
+<div>
+  <img align="right" width="46%" src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" alt="Discord Presence" />
+  <br><br>
+  <p>
+    「 ✧ 」<strong>C R I A T I V O :</strong> Dev &bull; Designer &bull; Conteudo
+    <br>
+    「 ✧ 」<strong>T E C N O L O G I A :</strong> IA &bull; Hardware &bull; Seguranca
+    <br>
+    「 ✧ 」<strong>C I E N C I A :</strong> Psicologia &bull; Neurociencia
+    <br>
+    「 ✧ 」<strong>G E S T A O :</strong> Administracao &bull; Gestao
+  </p>
 </div>
 
-<table>
-  <tr>
-    <td width="54%" valign="middle" align="left">
-      <p>
-        「 ✧ 」<strong>C R I A T I V O :</strong> Dev &bull; Designer &bull; Conteudo
-        <br>
-        「 ✧ 」<strong>T E C N O L O G I A :</strong> IA &bull; Hardware &bull; Seguranca
-        <br>
-        「 ✧ 」<strong>C I E N C I A :</strong> Psicologia &bull; Neurociencia
-        <br>
-        「 ✧ 」<strong>G E S T A O :</strong> Administracao &bull; Gestao
-      </p>
-    </td>
-    <td width="46%" valign="middle" align="right">
-      <img width="100%" src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" alt="Discord Presence" />
-    </td>
-  </tr>
-</table>
+<br clear="right">
 
 <p align="center">
   <a href="https://lixu.uwu.ai/">
@@ -48,6 +43,10 @@ Troque estes links se quiser personalizar mais:
   <a href="UMI_DISCORD_URL">
     <img src="https://img.shields.io/badge/UMI_DISCORD-1f2430?style=for-the-badge&logo=discord&logoColor=white" alt="UMI Discord" />
   </a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://i.imgur.com/kPnotkU.png" alt="Divisor" />
 </p>
 
 <h1 align="left"><strong>S O B R E</strong></h1>
