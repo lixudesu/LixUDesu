@@ -56,7 +56,7 @@
   <img src="https://i.imgur.com/LH9NAhG.png" width="350" align="right" style="margin-left: 15px;">
 
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_SPOTIFY_UID_AQUI&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false" width="280" />
+    <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=1ce4f2)](https://github.com/kittinan/spotify-github-profile)" width="280" />
   </a>
   
   <br><br>
