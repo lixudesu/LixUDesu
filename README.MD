@@ -51,7 +51,7 @@
 
 <br>
 
-<h1 align="left"><strong>S T A T U S &nbsp; A G O R A</strong></h1>
+<h1 align="left"><strong>S T A T U S</strong></h1>
 <div>
   <img src="https://i.imgur.com/LH9NAhG.png" width="350" align="right" style="margin-left: 15px;">
 
