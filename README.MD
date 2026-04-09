@@ -66,10 +66,10 @@
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=lixudesu&show_icons=true&theme=tokyonight&hide_border=true" width="380" />
+  <img src="https://github-readme-stats-three-xi-68.vercel.app/api?username=lixudesu&show_icons=true&theme=tokyonight&hide_border=true" width="380" />
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixudesu&layout=compact&theme=tokyonight&hide_border=true" width="380" />
+  <img src="https://github-readme-stats-three-xi-68.vercel.app/api/top-langs/?username=lixudesu&layout=compact&theme=tokyonight&hide_border=true" width="380" />
 </div>
 <br clear="both">
