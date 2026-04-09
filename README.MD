@@ -3,8 +3,7 @@
   <h3><strong>その日私たちが見た花</strong></h3>
 </div>
 
-<br><br><br>
-
+<br>
 <div>
   <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" align="right"/>
 <p>
@@ -14,7 +13,6 @@
   「 ✧ 」<strong>G E S T Ã O :</strong> Administração • Gestão
 </p>
 </div>
-
 <br clear="both">
 
 <h1 align="left"><strong>S O B R E</strong></h1>
