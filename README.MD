@@ -25,13 +25,13 @@
   <p style="font-size: 16px;">
     Trabalho explorando a interseção entre tecnologia avançada e a experiência humana. Estudo <strong>Inteligência Artificial</strong>, <strong> Design</strong> e estruturação de <strong>Bancos de Dados</strong>.
  
-✧ <a href="https://moebot.uwu.ai/"> target="_blank"><strong>Discord Bot: Moe</strong></a>
+✧ <a href="https://moebot.uwu.ai/" target="_blank"><strong>Discord Bot: Moe UwU</strong></a>
 
   </p>
 <p>
-<a href="https://bio.lixudesu.com/"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
-<a href="https://instagram.com/lixudesu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://github.com/lixudesu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
+<a href="https://instagram.com/lixudesu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://github.com/lixudesu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 <br clear="both">
@@ -49,7 +49,7 @@
     ✧  Fazendo um app de aniversários.<br>
     ✧  Estudando <strong>Psicologia e Neurociência Computacional</strong>.<br>
     ✧  Criando IA Continual Learning.<br>
-    ✧  Fale com minha IA Umi, <a href="https://discord.gg/servidor">venha conversar no meu servidor Umi no Discord</a>.
+    ✧  Fale com minha IA Umi, <a href="https://discord.gg/servidor" target="_blank">venha conversar no meu servidor Umi no Discord</a>.
   </p>
 </div>
 <br clear="both">
