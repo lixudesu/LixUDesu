@@ -5,12 +5,14 @@ Troque estes links se quiser personalizar mais:
 - UMI_DISCORD_URL
 -->
 
-<h3 align="center"><strong>L I X U</strong></h3>
-<p align="center"><strong>その日私たちが見た花</strong></p>
+<div align="center">
+  <h3><strong>L I X U</strong></h3>
+  <p><strong>その日私たちが見た花</strong></p>
+</div>
 
-<div>
+<div align="left">
   <img align="right" width="46%" src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" alt="Discord Presence" />
-  <br><br>
+  <br><br><br>
   <p>
     「 ✧ 」<strong>C R I A T I V O :</strong> Dev &bull; Designer &bull; Conteudo
     <br>
