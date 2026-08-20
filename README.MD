@@ -22,12 +22,12 @@
   <div align="center">
     <h3>Oi ✦</h3>
     <p>
-      Crio coisas na interseção entre tecnologia, criatividade e psicologia.
-      Gosto de transformar curiosidade em projetos — de inteligência artificial
-      e interfaces a design, bots, jogos e experiências digitais.
+      Gosto de criar coisas com criativade e tecnologia, meu primeiro contato com programação foi em 2013 no small basic.
+Em algum momento quando eu era criança passei a amar tecnologia, tive particulamente um amor por inteligência artificial principamente graças a Cortana de Halo.
+No geral tudo que for posssível eu vou aprender e criar, e assim continuamente.
     </p>
     <p>
-      Também estudo como pessoas e máquinas aprendem, sempre procurando maneiras
+      Também estudo psicologia, como pessoas e máquinas aprendem, sempre procurando maneiras
       diferentes de construir, experimentar e dar vida a ideias improváveis.
     </p>
     <p>
@@ -48,19 +48,18 @@
   <img src="https://i.imgur.com/ILCuZr0.png" alt="Arte LixU" width="310" align="left" />
 
   <p>
-    Gosto de transformar ideias em coisas que tenham personalidade, misturando
-    tecnologia, design e comportamento humano.
+    Adoro ter ideias de coisas e ir lá e fazer, esse são meus projetos pessoais favoritos, se quiser ver mais é só acessar meu portifólio.
   </p>
 
   <h3>✦ UMI</h3>
   <p>
     Minha inteligência artificial pessoal, criada para aprender continuamente,
-    construir memórias e me acompanhar por meio de uma interface própria.
+    construir memórias e me acompanhar, eu comecei ela em 2013 no small basic.
   </p>
 
   <h3>✦ Moe UwU</h3>
   <p>
-    Um bot para Discord feito com carinho, personalidade e vontade de experimentar.
+    Um Bot do discord onde pretendo colocar várias ideias que podem ajudar as comunidades.
     <a href="https://moebot.uwu.ai/"><strong>Conhecer a Moe</strong></a>.
   </p>
 
