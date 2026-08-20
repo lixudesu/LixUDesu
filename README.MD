@@ -14,85 +14,72 @@
 
 <br>
 
-<table>
-  <tr>
-    <td width="58%" valign="middle">
-      <h2>Oi, eu sou a LixU ✦</h2>
-      <p>
-        Crio coisas na interseção entre tecnologia, criatividade e psicologia.
-        Gosto de transformar curiosidade em projetos — de inteligência artificial
-        e interfaces a design, bots, jogos e experiências digitais.
-      </p>
-      <p>
-        Também estudo como pessoas e máquinas aprendem, sempre procurando maneiras
-        diferentes de construir, experimentar e dar vida a ideias improváveis.
-      </p>
-      <p>
-        <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
-        <a href="https://instagram.com/lixudesu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-        <a href="https://www.deviantart.com/namikawai" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="DeviantArt"/></a>
-      </p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" alt="Status do Discord" width="360" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="assets/lixu-portrait.png" alt="LixU" width="250" align="right" />
+
+  <h2>Oi ✦</h2>
+  <p>
+    Crio coisas na interseção entre tecnologia, criatividade e psicologia.
+    Gosto de transformar curiosidade em projetos — de inteligência artificial
+    e interfaces a design, bots, jogos e experiências digitais.
+  </p>
+  <p>
+    Também estudo como pessoas e máquinas aprendem, sempre procurando maneiras
+    diferentes de construir, experimentar e dar vida a ideias improváveis.
+  </p>
+  <p>
+    <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
+    <a href="https://instagram.com/lixudesu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.deviantart.com/namikawai" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="DeviantArt"/></a>
+  </p>
+</div>
+
+<br clear="both">
 
 <br>
 
 <h1 align="left"><strong>O Q U E &nbsp; E U &nbsp; C R I O</strong></h1>
 
-<p>
-  Meu espaço é um laboratório de ideias. Misturo código, design, comportamento humano
-  e experimentação para construir projetos com personalidade — alguns úteis, outros
-  estranhos, e quase sempre um pouco ambiciosos demais.
-</p>
+<div>
+  <img src="https://i.imgur.com/LH9NAhG.png" alt="Arte LixU" width="310" align="left" />
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://i.imgur.com/LH9NAhG.png" alt="Arte LixU" width="350" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://i.imgur.com/ILCuZr0.png" alt="Arte LixU" width="350" />
-    </td>
-  </tr>
-</table>
+  <p>
+    Gosto de transformar ideias em coisas que tenham personalidade, misturando
+    tecnologia, design e comportamento humano.
+  </p>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>✦ UMI</h3>
-      <p>
-        Uma inteligência artificial em desenvolvimento, pensada em aprendizado
-        contínuo, memória e uma interface própria.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>✦ Moe UwU</h3>
-      <p>
-        Um bot para Discord feito com carinho, personalidade e vontade de experimentar.
-        <a href="https://moebot.uwu.ai/"><strong>Conhecer o projeto</strong></a>.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>✦ Experimentos</h3>
-      <p>
-        Apps, sites, jogos, automações, modelagem 3D e qualquer ideia que pareça
-        interessante o bastante para ganhar forma.
-      </p>
-    </td>
-  </tr>
-</table>
+  <h3>✦ UMI</h3>
+  <p>
+    Minha inteligência artificial pessoal, criada para aprender continuamente,
+    construir memórias e me acompanhar por meio de uma interface própria.
+  </p>
+
+  <h3>✦ Moe UwU</h3>
+  <p>
+    Um bot para Discord feito com carinho, personalidade e vontade de experimentar.
+    <a href="https://moebot.uwu.ai/"><strong>Conhecer a Moe</strong></a>.
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/lixudesu?tab=repositories">
+      <img src="https://img.shields.io/badge/VER_PORTF%C3%93LIO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver portfólio" />
+    </a>
+  </p>
+</div>
+
+<br clear="both">
 
 <br>
 
 <h1 align="left"><strong>S T A T U S</strong></h1>
 
 <div align="center">
+  <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" alt="Status do Discord" width="360" align="middle" />
+
+  &nbsp;&nbsp;
+
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=1ce4f2" alt="Spotify" width="250" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=1ce4f2" alt="Spotify" width="250" align="middle" />
   </a>
 
   <br><br>
