@@ -20,7 +20,7 @@
   <br><br><br><br>
 
   <div align="center">
-    <h2>Oi ✦</h2>
+    <h3>Oi ✦</h3>
     <p>
       Crio coisas na interseção entre tecnologia, criatividade e psicologia.
       Gosto de transformar curiosidade em projetos — de inteligência artificial
@@ -64,6 +64,17 @@
     <a href="https://moebot.uwu.ai/"><strong>Conhecer a Moe</strong></a>.
   </p>
 
+  <h3>✦ Latão do LixU</h3>
+  <p>
+    Um site em React para reunir aniversários, perfis e histórias do grupo,
+    com uma estética inspirada em Frutiger Aero e webcore.
+  </p>
+
+  <h3>✦ LixU Archavier</h3>
+  <p>
+    Um acervo visual criado para explorar e organizar animes, mangás e visual novels.
+  </p>
+
   <p align="center">
     <a href="https://github.com/lixudesu?tab=repositories">
       <img src="https://img.shields.io/badge/VER_PORTF%C3%93LIO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver portfólio" />
@@ -77,16 +88,18 @@
 
 <h1 align="left"><strong>S T A T U S</strong></h1>
 
-<div align="center">
-  <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" alt="Status do Discord" width="350" align="middle" />
-
-  &nbsp;&nbsp;
+<div>
+  <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" alt="Status do Discord" width="350" align="left" />
 
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=1ce4f2" alt="Spotify" width="350" align="middle" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=1ce4f2" alt="Spotify" width="350" align="right" />
   </a>
+</div>
 
-  <br><br>
+<br clear="both">
+
+<div align="center">
+  <br>
 
   <img src="https://i.imgur.com/MDrc9fn.png" alt="LixU" width="520" />
 
@@ -94,4 +107,3 @@
 
   <img src="https://i.imgur.com/4Hjpz9I.png" alt="Divider" width="400" />
 </div>
-
