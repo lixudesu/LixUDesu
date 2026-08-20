@@ -26,7 +26,7 @@
       com programação foi em 2013, usando o Small Basic. 
       Em algum momento da minha infância eu passei a amar tecnologia. Principalmente inteligência artificial, e a maior parte disso foi graças à Cortana, de Halo.
     <p>
-      No geral gosto de aprender e criar desde de inteligência
+      No geral gosto de aprender desde inteligência
       artificial, interfaces, bots, jogos, design e outras ideias que aparecem pelo caminho.
     </p>
     <p>
