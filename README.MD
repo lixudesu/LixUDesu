@@ -30,7 +30,7 @@
       artificial, interfaces, bots, jogos, design e outras ideias que aparecem pelo caminho.
     </p>
     <p>
-      Também estudo psicologia e tento entender como pessoas e máquinas aprendem, inclusive meu foco é na área da neurociência, pretendo aplicar todas as ideis e desenvolvimento que eu tiver na minha IA.
+      Também estudo psicologia e tento entender como pessoas e máquinas aprendem, inclusive meu foco é na área da neurociência.
     </p>
     <p>
       <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
