@@ -15,23 +15,27 @@
 <br>
 
 <div>
-  <img src="assets/lixu-portrait.png" alt="LixU" width="250" align="right" />
+  <img src="assets/lixu-portrait.png" alt="LixU" width="320" align="right" />
 
-  <h2>Oi ✦</h2>
-  <p>
-    Crio coisas na interseção entre tecnologia, criatividade e psicologia.
-    Gosto de transformar curiosidade em projetos — de inteligência artificial
-    e interfaces a design, bots, jogos e experiências digitais.
-  </p>
-  <p>
-    Também estudo como pessoas e máquinas aprendem, sempre procurando maneiras
-    diferentes de construir, experimentar e dar vida a ideias improváveis.
-  </p>
-  <p>
-    <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
-    <a href="https://instagram.com/lixudesu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://www.deviantart.com/namikawai" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="DeviantArt"/></a>
-  </p>
+  <br><br><br><br>
+
+  <div align="center">
+    <h2>Oi ✦</h2>
+    <p>
+      Crio coisas na interseção entre tecnologia, criatividade e psicologia.
+      Gosto de transformar curiosidade em projetos — de inteligência artificial
+      e interfaces a design, bots, jogos e experiências digitais.
+    </p>
+    <p>
+      Também estudo como pessoas e máquinas aprendem, sempre procurando maneiras
+      diferentes de construir, experimentar e dar vida a ideias improváveis.
+    </p>
+    <p>
+      <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
+      <a href="https://instagram.com/lixudesu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+      <a href="https://www.deviantart.com/namikawai" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="DeviantArt"/></a>
+    </p>
+  </div>
 </div>
 
 <br clear="both">
@@ -41,7 +45,7 @@
 <h1 align="left"><strong>O Q U E &nbsp; E U &nbsp; C R I O</strong></h1>
 
 <div>
-  <img src="https://i.imgur.com/LH9NAhG.png" alt="Arte LixU" width="310" align="left" />
+  <img src="https://i.imgur.com/ILCuZr0.png" alt="Arte LixU" width="310" align="left" />
 
   <p>
     Gosto de transformar ideias em coisas que tenham personalidade, misturando
@@ -74,12 +78,12 @@
 <h1 align="left"><strong>S T A T U S</strong></h1>
 
 <div align="center">
-  <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" alt="Status do Discord" width="360" align="middle" />
+  <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" alt="Status do Discord" width="350" align="middle" />
 
   &nbsp;&nbsp;
 
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=1ce4f2" alt="Spotify" width="250" align="middle" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=1ce4f2" alt="Spotify" width="350" align="middle" />
   </a>
 
   <br><br>
