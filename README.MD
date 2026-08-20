@@ -23,14 +23,17 @@
     <h3>Oi ✦</h3>
     <p>
       Gosto de criar coisas misturando criatividade e tecnologia. Meu primeiro contato
-      com programação foi em 2013, usando o Small Basic. 
-      Em algum momento da minha infância eu passei a amar tecnologia. Principalmente inteligência artificial, e a maior parte disso foi graças à Cortana, de Halo.
-    <p>
-      No geral gosto de aprender desde inteligência
-      artificial, interfaces, bots, jogos, design e outras ideias que aparecem pelo caminho.
+      com programação foi em 2013, usando o Small Basic.
+      Em algum momento da minha infância, eu passei a amar tecnologia, principalmente
+      inteligência artificial, e a maior parte disso foi graças à Cortana, de Halo.
     </p>
     <p>
-      Também estudo psicologia e tento entender como pessoas e máquinas aprendem, inclusive meu foco é na área da neurociência.
+      No geral, gosto de aprender sobre inteligência artificial, interfaces, bots, jogos,
+      design e outras ideias que aparecem pelo caminho.
+    </p>
+    <p>
+      Também estudo psicologia e tento entender como pessoas e máquinas aprendem.
+      Inclusive, meu foco é na área da neurociência.
     </p>
     <p>
       <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
@@ -50,19 +53,20 @@
   <img src="https://i.imgur.com/ILCuZr0.png" alt="Arte LixU" width="310" align="left" />
 
   <p>
-    Gosto de transformar ideias em coisas que tenham personalidade, misturando
-    tecnologia, design e comportamento humano.
+    Esses são projetos pessoais meus de que eu particularmente gosto. Se você quiser
+    ver mais coisas, visite meu portfólio ^^.
   </p>
 
   <h3>✦ UMI</h3>
   <p>
-    Minha inteligência artificial pessoal, criada para aprender continuamente,
-    construir memórias e me acompanhar por meio de uma interface própria.
+    Minha inteligência artificial pessoal. Eu comecei em 2013, no Small Basic. Depois
+    de fazer um código simples que escolhia palavras aleatórias quando eu mandava alguma
+    pergunta, meio que veio à mente: “Por que o meu computador escolheu essa frase e não outra?”
   </p>
 
   <h3>✦ Moe UwU</h3>
   <p>
-    Um bot para Discord feito com carinho, personalidade e vontade de experimentar.
+    Um bot para ajudar a comunidade. Eu pretendo melhorá-lo cada vez mais.
     <a href="https://moebot.uwu.ai/"><strong>Conhecer a Moe</strong></a>.
   </p>
 
@@ -74,7 +78,8 @@
 
   <h3>✦ LixU Archavier</h3>
   <p>
-    Um acervo visual criado para explorar e organizar animes, mangás e visual novels.
+    Eu tenho muitos HDs com muitos animes, alguns difíceis de encontrar, então decidi
+    fazer um arquivo deles.
   </p>
 
   <p align="center">
