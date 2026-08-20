@@ -17,7 +17,7 @@
 <div>
   <img src="assets/lixu-portrait.png" alt="LixU" width="320" align="right" />
 
-  <br><br><br><br>
+  <br><br>
 
   <div align="center">
     <h3>Oi ✦</h3>
@@ -57,27 +57,27 @@
     ver mais coisas, visite meu portfólio ^^.
   </p>
 
-  <h3>✦ UMI</h3>
   <p>
+    <strong>✦ UMI</strong><br>
     Minha inteligência artificial pessoal. Eu comecei em 2013, no Small Basic. Depois
     de fazer um código simples que escolhia palavras aleatórias quando eu mandava alguma
     pergunta, meio que veio à mente: “Por que o meu computador escolheu essa frase e não outra?”
   </p>
 
-  <h3>✦ Moe UwU</h3>
   <p>
+    <strong>✦ Moe UwU</strong><br>
     Um bot para ajudar a comunidade. Eu pretendo melhorá-lo cada vez mais.
     <a href="https://moebot.uwu.ai/"><strong>Conhecer a Moe</strong></a>.
   </p>
 
-  <h3>✦ Latão do LixU</h3>
   <p>
+    <strong>✦ Latão do LixU</strong><br>
     Um site em React para reunir aniversários, perfis e histórias do grupo,
     com uma estética inspirada em Frutiger Aero e webcore.
   </p>
 
-  <h3>✦ LixU Archavier</h3>
   <p>
+    <strong>✦ LixU Archavier</strong><br>
     Eu tenho muitos HDs com muitos animes, alguns difíceis de encontrar, então decidi
     fazer um arquivo deles.
   </p>
