@@ -23,25 +23,14 @@
     <h3>Oi ✦</h3>
     <p>
       Gosto de criar coisas misturando criatividade e tecnologia. Meu primeiro contato
-      com programação foi em 2013, usando o Small Basic. Foi algo simples, mas acabou
-      abrindo para mim um mundo inteiro de possibilidades.
-    </p>
+      com programação foi em 2013, usando o Small Basic. 
+      Em algum momento da minha infância eu passei a amar tecnologia. Principalmente inteligência artificial, e a maior parte disso foi graças à Cortana, de Halo.
     <p>
-      Em algum momento da minha infância eu passei a amar tecnologia. Tive um carinho
-      especial por inteligência artificial, principalmente graças à Cortana, de Halo.
-      Desde então, acho incrível a ideia de criar algo que aprende, guarda memórias e
-      desenvolve uma maneira própria de interagir.
-    </p>
-    <p>
-      No geral, se alguma coisa despertar minha curiosidade, eu vou querer aprender e
-      criar com ela. Por isso acabo experimentando um pouco de tudo: inteligência
+      No geral gosto de aprender e criar desde de inteligência
       artificial, interfaces, bots, jogos, design e outras ideias que aparecem pelo caminho.
     </p>
     <p>
-      Também estudo psicologia e tento entender como pessoas e máquinas aprendem,
-      sempre procurando maneiras diferentes de construir, experimentar e dar vida a
-      ideias improváveis. E assim eu continuo: aprendendo alguma coisa nova,
-      transformando ela em projeto e descobrindo até onde consigo chegar.
+      Também estudo psicologia e tento entender como pessoas e máquinas aprendem, inclusive meu foco é na área da neurociência, pretendo aplicar todas as ideis e desenvolvimento que eu tiver na minha IA.
     </p>
     <p>
       <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
