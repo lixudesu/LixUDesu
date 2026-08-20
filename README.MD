@@ -22,13 +22,26 @@
   <div align="center">
     <h3>Oi ✦</h3>
     <p>
-      Gosto de criar coisas com criativade e tecnologia, meu primeiro contato com programação foi em 2013 no small basic.
-Em algum momento quando eu era criança passei a amar tecnologia, tive particulamente um amor por inteligência artificial principamente graças a Cortana de Halo.
-No geral tudo que for posssível eu vou aprender e criar, e assim continuamente.
+      Gosto de criar coisas misturando criatividade e tecnologia. Meu primeiro contato
+      com programação foi em 2013, usando o Small Basic. Foi algo simples, mas acabou
+      abrindo para mim um mundo inteiro de possibilidades.
     </p>
     <p>
-      Também estudo psicologia, como pessoas e máquinas aprendem, sempre procurando maneiras
-      diferentes de construir, experimentar e dar vida a ideias improváveis.
+      Em algum momento da minha infância eu passei a amar tecnologia. Tive um carinho
+      especial por inteligência artificial, principalmente graças à Cortana, de Halo.
+      Desde então, acho incrível a ideia de criar algo que aprende, guarda memórias e
+      desenvolve uma maneira própria de interagir.
+    </p>
+    <p>
+      No geral, se alguma coisa despertar minha curiosidade, eu vou querer aprender e
+      criar com ela. Por isso acabo experimentando um pouco de tudo: inteligência
+      artificial, interfaces, bots, jogos, design e outras ideias que aparecem pelo caminho.
+    </p>
+    <p>
+      Também estudo psicologia e tento entender como pessoas e máquinas aprendem,
+      sempre procurando maneiras diferentes de construir, experimentar e dar vida a
+      ideias improváveis. E assim eu continuo: aprendendo alguma coisa nova,
+      transformando ela em projeto e descobrindo até onde consigo chegar.
     </p>
     <p>
       <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
@@ -48,18 +61,19 @@ No geral tudo que for posssível eu vou aprender e criar, e assim continuamente.
   <img src="https://i.imgur.com/ILCuZr0.png" alt="Arte LixU" width="310" align="left" />
 
   <p>
-    Adoro ter ideias de coisas e ir lá e fazer, esse são meus projetos pessoais favoritos, se quiser ver mais é só acessar meu portifólio.
+    Gosto de transformar ideias em coisas que tenham personalidade, misturando
+    tecnologia, design e comportamento humano.
   </p>
 
   <h3>✦ UMI</h3>
   <p>
     Minha inteligência artificial pessoal, criada para aprender continuamente,
-    construir memórias e me acompanhar, eu comecei ela em 2013 no small basic.
+    construir memórias e me acompanhar por meio de uma interface própria.
   </p>
 
   <h3>✦ Moe UwU</h3>
   <p>
-    Um Bot do discord onde pretendo colocar várias ideias que podem ajudar as comunidades.
+    Um bot para Discord feito com carinho, personalidade e vontade de experimentar.
     <a href="https://moebot.uwu.ai/"><strong>Conhecer a Moe</strong></a>.
   </p>
 
