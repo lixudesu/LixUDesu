@@ -50,13 +50,20 @@
   <img src="https://i.imgur.com/ILCuZr0.png" alt="Arte LixU" width="310" align="left" />
 
   <p>
-    Crio coisas entre <strong>design e tecnologia</strong>: aplicações web, interfaces,
-    bots, automações e ferramentas para inteligência artificial.
+    Crio coisas entre <strong>design, programação e tecnologia</strong>, tentando sempre
+    transformar ideias em experiências que sejam bonitas, úteis e interessantes de usar.
+    Isso vai desde interfaces e aplicações web até bots, automações e ferramentas próprias.
   </p>
 
   <p>
-    Também trabalho com <strong>redes e infraestrutura</strong>, e gosto de ensinar e
-    transformar assuntos técnicos em coisas mais simples de entender.
+    Uma parte grande do que faço hoje também passa por <strong>inteligência artificial</strong>:
+    gosto de experimentar com agentes, integrações entre modelos e ferramentas, automação
+    de tarefas e infraestrutura para tornar esses sistemas mais rápidos e capazes.
+  </p>
+
+  <p>
+    Também mexo com <strong>redes, servidores e infraestrutura</strong>, e gosto bastante de ensinar.
+    Dou aula e tento explicar assuntos técnicos de um jeito mais visual, direto e fácil de testar na prática.
   </p>
 
   <p align="center">
