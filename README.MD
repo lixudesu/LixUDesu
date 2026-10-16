@@ -33,7 +33,7 @@
       de transformar ideias curiosas em coisas que realmente funcionam.
     </p>
     <p>
-      <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
+      <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Sobre-Pessoal-blue?style=for-the-badge&logo=about.me" alt="Sobre"/></a>
       <a href="https://instagram.com/lixudesu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
       <a href="https://www.deviantart.com/namikawai" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="DeviantArt"/></a>
     </p>
@@ -50,43 +50,29 @@
   <img src="https://i.imgur.com/ILCuZr0.png" alt="Arte LixU" width="310" align="left" />
 
   <p>
-    Trabalho na interseção entre <strong>design, programação e tecnologia</strong>, criando
-    desde experiências visuais até sistemas completos. Gosto de pegar uma ideia ainda
-    meio abstrata e transformar em algo bonito, útil e funcional.
+    Crio coisas entre <strong>design e tecnologia</strong>: aplicações web, interfaces,
+    bots, automações e ferramentas para inteligência artificial.
   </p>
 
   <p>
-    Desenvolvo <strong>aplicações web, interfaces e ferramentas</strong>, além de bots e
-    automações para resolver tarefas repetitivas, integrar serviços e tornar fluxos de
-    trabalho mais inteligentes.
-  </p>
-
-  <p>
-    Também trabalho com <strong>inteligência artificial e infraestrutura para agentes</strong>:
-    integrações com modelos, ferramentas, automações, conectores e estruturas para que
-    agentes consigam executar tarefas de forma mais autônoma e eficiente.
-  </p>
-
-  <p>
-    Tenho interesse e experiência com <strong>redes, servidores e infraestrutura</strong>,
-    especialmente quando essas áreas se encontram com desenvolvimento, automação e IA.
-  </p>
-
-  <p>
-    Além de construir projetos, também <strong>dou aula</strong>. Gosto de compartilhar o
-    que aprendo e explicar tecnologia de uma forma mais prática, visual e acessível.
-  </p>
-
-  <p>
-    No fim, acabo fazendo um pouco de tudo: <strong>design, código, web, bots, automação,
-    IA, infraestrutura e redes</strong> — quase sempre movido pela curiosidade de entender
-    como as coisas funcionam e de encontrar uma maneira interessante de fazê-las funcionar melhor.
+    Também trabalho com <strong>redes e infraestrutura</strong>, e gosto de ensinar e
+    transformar assuntos técnicos em coisas mais simples de entender.
   </p>
 
   <p align="center">
-    <a href="https://github.com/lixudesu?tab=repositories">
-      <img src="https://img.shields.io/badge/VER_PORTF%C3%93LIO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver portfólio" />
-    </a>
+    <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript" />
+    &nbsp;
+    <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python" />
+    &nbsp;
+    <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML" />
+    &nbsp;
+    <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS" />
+    &nbsp;
+    <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase" title="Supabase" />
+    &nbsp;
+    <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase" />
+    &nbsp;
+    <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma" />
   </p>
 </div>
 
