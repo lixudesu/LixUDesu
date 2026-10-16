@@ -87,14 +87,20 @@
 
 <br>
 
-<h1 align="left"><strong>S T A T U S</strong></h1>
+<h1 align="left"><strong>C O N E X Õ E S</strong></h1>
 
 <div>
-  <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" alt="Status do Discord" width="350" align="left" />
+  <img src="https://lanyard.kyrie25.dev/api/224531635247251456?showDisplayName=true&animatedDecoration=true" alt="Status do Discord" width="320" align="left" />
 
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=1ce4f2" alt="Spotify" width="350" align="right" />
-  </a>
+  <br><br>
+
+  <div align="center">
+    <!-- Adicione o link do LinkedIn envolvendo este badge quando quiser -->
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <br><br>
+    <!-- Adicione o link da Protteu envolvendo este badge quando quiser -->
+    <img src="https://img.shields.io/badge/Empresa-Protteu-8B5CF6?style=for-the-badge" alt="Empresa · Protteu" />
+  </div>
 </div>
 
 <br clear="both">
