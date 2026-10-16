@@ -47,7 +47,7 @@
 <h1 align="left"><strong>O &nbsp; Q U E &nbsp; E U &nbsp; F A Ç O</strong></h1>
 
 <div>
-  <img src="assets/o_que_eu_crio.png" alt="Arte LixU" width="245" align="left" />
+  <img src="assets/o_que_eu_crio.png" alt="Arte LixU" width="290" align="left" />
 
   <p>
     Crio coisas entre <strong>design, programação e tecnologia</strong>, tentando sempre
