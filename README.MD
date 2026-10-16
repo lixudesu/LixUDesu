@@ -4,11 +4,11 @@
   <hr width="60%">
   <h3><strong>その日私たちが見た花</strong></h3>
   <p>
+    <strong>D E S I G N</strong>
+    &nbsp; • &nbsp;
     <strong>T E C N O L O G I A</strong>
     &nbsp; • &nbsp;
-    <strong>C R I A T I V I D A D E</strong>
-    &nbsp; • &nbsp;
-    <strong>P S I C O L O G I A</strong>
+    <strong>I N T E L I G Ê N C I A &nbsp; A R T I F I C I A L</strong>
   </p>
 </div>
 
@@ -23,17 +23,14 @@
     <h3>Oi ✦</h3>
     <p>
       Gosto de criar coisas misturando criatividade e tecnologia. Meu primeiro contato
-      com programação foi em 2013, usando o Small Basic.
-      Em algum momento da minha infância, eu passei a amar tecnologia, principalmente
-      inteligência artificial, e a maior parte disso foi graças à Cortana, de Halo.
+      com programação foi em 2013, usando o Small Basic. Em algum momento da minha
+      infância, passei a amar tecnologia — principalmente inteligência artificial —
+      e boa parte disso foi graças à Cortana, de Halo.
     </p>
     <p>
-      No geral, gosto de aprender sobre inteligência artificial, interfaces, bots, jogos,
-      design e outras ideias que aparecem pelo caminho.
-    </p>
-    <p>
-      Também estudo psicologia e tento entender como pessoas e máquinas aprendem.
-      Inclusive, meu foco é na área da neurociência.
+      Desde então, continuo explorando ideias que passam por programação, interfaces,
+      design, bots, jogos, automação e inteligência artificial. Gosto especialmente
+      de transformar ideias curiosas em coisas que realmente funcionam.
     </p>
     <p>
       <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Bio-Personal-blue?style=for-the-badge&logo=about.me" alt="Bio"/></a>
@@ -47,39 +44,43 @@
 
 <br>
 
-<h1 align="left"><strong>O Q U E &nbsp; E U &nbsp; C R I O</strong></h1>
+<h1 align="left"><strong>O &nbsp; Q U E &nbsp; E U &nbsp; F A Ç O</strong></h1>
 
 <div>
   <img src="https://i.imgur.com/ILCuZr0.png" alt="Arte LixU" width="310" align="left" />
 
   <p>
-    Esses são projetos pessoais meus de que eu particularmente gosto. Se você quiser
-    ver mais coisas, visite meu portfólio ^^.
+    Trabalho na interseção entre <strong>design, programação e tecnologia</strong>, criando
+    desde experiências visuais até sistemas completos. Gosto de pegar uma ideia ainda
+    meio abstrata e transformar em algo bonito, útil e funcional.
   </p>
 
   <p>
-    <strong>✦ UMI</strong><br>
-    Minha inteligência artificial pessoal. Eu comecei em 2013, no Small Basic. Depois
-    de fazer um código simples que escolhia palavras aleatórias quando eu mandava alguma
-    pergunta, meio que veio à mente: “Por que o meu computador escolheu essa frase e não outra?”
+    Desenvolvo <strong>aplicações web, interfaces e ferramentas</strong>, além de bots e
+    automações para resolver tarefas repetitivas, integrar serviços e tornar fluxos de
+    trabalho mais inteligentes.
   </p>
 
   <p>
-    <strong>✦ Moe UwU</strong><br>
-    Um bot para ajudar a comunidade. Eu pretendo melhorá-lo cada vez mais.
-    <a href="https://moebot.uwu.ai/"><strong>Conhecer a Moe</strong></a>.
+    Também trabalho com <strong>inteligência artificial e infraestrutura para agentes</strong>:
+    integrações com modelos, ferramentas, automações, conectores e estruturas para que
+    agentes consigam executar tarefas de forma mais autônoma e eficiente.
   </p>
 
   <p>
-    <strong>✦ Latão do LixU</strong><br>
-    Um site em React para reunir aniversários, perfis e histórias do grupo,
-    com uma estética inspirada em Frutiger Aero e webcore.
+    Tenho interesse e experiência com <strong>redes, servidores e infraestrutura</strong>,
+    especialmente quando essas áreas se encontram com desenvolvimento, automação e IA.
   </p>
 
   <p>
-    <strong>✦ LixU Archavier</strong><br>
-    Eu tenho muitos HDs com muitos animes, alguns difíceis de encontrar, então decidi
-    fazer um arquivo deles.
+    Além de construir projetos, também <strong>dou aula</strong>. Gosto de compartilhar o
+    que aprendo e explicar tecnologia de uma forma mais prática, visual e acessível.
+  </p>
+
+  <p>
+    No fim, acabo fazendo um pouco de tudo: <strong>design, código, web, bots, automação,
+    IA, infraestrutura e redes</strong> — quase sempre movido pela curiosidade de entender
+    como as coisas funcionam e de encontrar uma maneira interessante de fazê-las funcionar melhor.
   </p>
 
   <p align="center">
