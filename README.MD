@@ -49,21 +49,11 @@
 <div>
   <img src="assets/o_que_eu_crio.png" alt="Arte LixU" width="330" align="left" />
 
-  <p>
-    Crio coisas entre <strong>design, programação e tecnologia</strong>, tentando sempre
-    transformar ideias em experiências que sejam bonitas, úteis e interessantes de usar.
-    Isso vai desde interfaces e aplicações web até bots, automações e ferramentas próprias.
-  </p>
-
-  <p>
-    Uma parte grande do que faço hoje também passa por <strong>inteligência artificial</strong>:
-    gosto de experimentar com agentes, integrações entre modelos e ferramentas, automação
-    de tarefas e infraestrutura para tornar esses sistemas mais rápidos e capazes.
-  </p>
-
-  <p>
-    Também mexo com <strong>redes, servidores e infraestrutura</strong>, e gosto bastante de ensinar.
-    Dou aula e tento explicar assuntos técnicos de um jeito mais visual, direto e fácil de testar na prática.
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/areas-criativas-dark.svg" />
+      <img src="assets/areas-criativas.svg" width="490" alt="Design e criatividade: interfaces, identidade visual e edição. Desenvolvimento: web, aplicações e ferramentas próprias. IA e automação: agentes, bots e integrações." />
+    </picture>
   </p>
 
   <p align="center">

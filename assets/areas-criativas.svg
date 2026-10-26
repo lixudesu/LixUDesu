@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="340" viewBox="0 0 620 340" role="img" aria-labelledby="title desc">
+  <title id="title">Criar, desenvolver e experimentar</title>
+  <desc id="desc">Design e criatividade, desenvolvimento, inteligência artificial e automação.</desc>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="14" y="24" fill="#687970" font-size="12" font-weight="600" letter-spacing="2.5">CRIAR · DESENVOLVER · EXPERIMENTAR</text>
+    <g transform="translate(0 46)">
+    <rect x="12" y="4" width="78" height="72" rx="20" fill="#fcecf3"/>
+    <g transform="translate(12 0)" fill="none" stroke="#c45686" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m30 47 7-20 19-9 9 9-9 19-20 7-6-6Z"/><path d="m37 46 14-14m-14 14-7 7"/><circle cx="52" cy="31" r="3"/><path d="m64 9 2 6 6 2-6 2-2 6-2-6-6-2 6-2 2-6Z"/></g>
+    <text x="110" y="32" fill="#253d35" font-size="26" font-weight="650">Design &amp; Criatividade</text>
+    <text x="110" y="59" fill="#687970" font-size="17">Interfaces · Identidade visual · Edição</text>
+    <path d="M110 83H600" stroke="#e3ebe7"/>
+  </g><g transform="translate(0 142)">
+    <rect x="12" y="4" width="78" height="72" rx="20" fill="#e9f6ef"/>
+    <g transform="translate(12 0)" fill="none" stroke="#348464" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="20" y="17" width="48" height="36" rx="5"/><path d="M20 27h48M34 34l-6 5 6 5m20-10 6 5-6 5m-8-12-5 14"/><path d="M32 61h24m-12-8v8"/></g>
+    <text x="110" y="32" fill="#253d35" font-size="26" font-weight="650">Desenvolvimento</text>
+    <text x="110" y="59" fill="#687970" font-size="17">Web · Aplicações · Ferramentas próprias</text>
+    <path d="M110 83H600" stroke="#e3ebe7"/>
+  </g><g transform="translate(0 238)">
+    <rect x="12" y="4" width="78" height="72" rx="20" fill="#edf5eb"/>
+    <g transform="translate(12 0)" fill="none" stroke="#648758" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M30 24h27v28H30z" stroke-dasharray="3 5"/><rect x="16" y="15" width="14" height="14" rx="4"/><rect x="57" y="46" width="14" height="14" rx="4"/><path d="m49 19 4 10 10 4-10 4-4 10-4-10-10-4 10-4 4-10Z"/></g>
+    <text x="110" y="32" fill="#253d35" font-size="26" font-weight="650">IA &amp; Automação</text>
+    <text x="110" y="59" fill="#687970" font-size="17">Agentes · Bots · Integrações</text>
+    
+  </g>
+  </g>
+</svg>
