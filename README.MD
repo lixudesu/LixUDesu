@@ -1,14 +1,13 @@
 <div align="center">
   <img src="https://i.imgur.com/hMSDNuP.png" alt="LIXU" width="650" />
-  <br><br>
+  <br>
   <img src="assets/akira-banner.gif" alt="Akira sob o céu azul — After the Rain" width="700" />
-  <h3>Oi ✦</h3>
+  <h2>Oi ✦</h2>
   <p>
     Gosto de criar coisas misturando criatividade e tecnologia. Meu primeiro contato<br>
     com programação foi em 2013, usando o Small Basic. Em algum momento da minha<br>
     infância, passei a amar tecnologia.
   </p>
-  <br>
   <hr width="60%">
   <h3><strong>その日私たちが見た花</strong></h3>
 </div>
@@ -16,10 +15,8 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/areas-criativas-dark.svg" />
-    <img src="assets/areas-criativas.svg" alt="Design e Criatividade · Desenvolvimento · IA e Automação" width="440" align="middle" />
+    <img src="assets/areas-criativas.svg" alt="Design e Criatividade · Desenvolvimento · IA e Automação — retrato LixU" width="740" />
   </picture>
-  &nbsp;
-  <img src="assets/lixu-portrait.png" alt="LixU" width="280" align="middle" />
 </p>
 
 <p align="center">
@@ -27,35 +24,30 @@
   <a href="https://www.deviantart.com/namikawai"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&amp;logo=deviantart&amp;logoColor=white" alt="DeviantArt" /></a>
 </p>
 
-<br>
-
 <h1 align="left"><strong>O &nbsp; Q U E &nbsp; E U &nbsp; F A Ç O</strong></h1>
 
 <div>
   <img src="assets/o_que_eu_crio.png" alt="Arte LixU" width="290" align="left" />
-  <br><br>
-  <h3 align="center">Criar · Desenvolver · Experimentar</h3>
+  <br><br><br>
 <p align="center">
-        <img width="60" height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript" />
+        <img width="48" height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript" />
         &nbsp;&nbsp;
-        <img width="60" height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python" />
+        <img width="48" height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python" />
         &nbsp;&nbsp;
-        <img width="60" height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML" />
+        <img width="48" height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML" />
         &nbsp;&nbsp;
-        <img width="60" height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS" />
+        <img width="48" height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS" />
       </p>
       <p align="center">
-        <img width="60" height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase" title="Supabase" />
+        <img width="48" height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase" title="Supabase" />
         &nbsp;&nbsp;
-        <img width="60" height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase" />
+        <img width="48" height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase" />
         &nbsp;&nbsp;
-        <img width="60" height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma" />
+        <img width="48" height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma" />
       </p>
 </div>
 
 <br clear="both">
-
-<br>
 
 <h1 align="left"><strong>C O N E X Õ E S</strong></h1>
 
@@ -73,8 +65,8 @@
 <br clear="both">
 
 <div align="center">
-  <br><br>
+  <br>
   <img src="https://i.imgur.com/MDrc9fn.png" alt="LixU" width="520" />
-  <br><br>
+  <br>
   <img src="https://i.imgur.com/4Hjpz9I.png" alt="Divider" width="400" />
 </div>
