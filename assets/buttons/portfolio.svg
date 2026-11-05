@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="54" viewBox="0 0 184 54" role="img" aria-label="Portfólio">
+  <title>Portfólio</title>
+  <rect x="1" y="1" width="182" height="52" rx="16" fill="#edf6ee" stroke="#72986d" stroke-opacity=".35"/>
+  <g fill="none" stroke="#72986d" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="20" y="22" width="22" height="15" rx="3"/><path d="M26 22v-4h10v4M20 28h22m-13 0v3h4v-3"/></g>
+  <text x="55" y="32" fill="#304d59" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Portfólio</text>
+  <path d="m163 14 1.2 3.8 3.8 1.2-3.8 1.2-1.2 3.8-1.2-3.8-3.8-1.2 3.8-1.2Z" fill="#72986d" opacity=".45"/>
+</svg>

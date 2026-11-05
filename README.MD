@@ -1,15 +1,10 @@
 <div align="center">
   <img src="https://i.imgur.com/hMSDNuP.png" alt="LIXU" width="650" />
-  <br>
+  <br><br>
+  <img src="https://i.pinimg.com/originals/50/53/08/5053089136fbe6a6f30b1d90e748e645.gif" alt="Akira sob o céu azul — After the Rain" width="700" />
+  <br><br>
   <hr width="60%">
   <h3><strong>その日私たちが見た花</strong></h3>
-  <p>
-    <strong>D E S I G N</strong>
-    &nbsp; • &nbsp;
-    <strong>T E C N O L O G I A</strong>
-    &nbsp; • &nbsp;
-    <strong>I N T E L I G Ê N C I A &nbsp; A R T I F I C I A L</strong>
-  </p>
 </div>
 
 <br>
@@ -24,13 +19,7 @@
     <p>
       Gosto de criar coisas misturando criatividade e tecnologia. Meu primeiro contato
       com programação foi em 2013, usando o Small Basic. Em algum momento da minha
-      infância, passei a amar tecnologia — principalmente inteligência artificial —
-      e boa parte disso foi graças à Cortana, de Halo.
-    </p>
-    <p>
-      Desde então, continuo explorando ideias que passam por programação, interfaces,
-      design, bots, jogos, automação e inteligência artificial. Gosto especialmente
-      de transformar ideias curiosas em coisas que realmente funcionam.
+      infância, passei a amar tecnologia.
     </p>
     <p>
       <a href="https://bio.lixudesu.com/" target="_blank"><img src="https://img.shields.io/badge/Sobre-Pessoal-blue?style=for-the-badge&logo=about.me" alt="Sobre"/></a>
@@ -49,12 +38,22 @@
 <div>
   <img src="assets/o_que_eu_crio.png" alt="Arte LixU" width="330" align="left" />
 
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/areas-criativas-dark.svg" />
-      <img src="assets/areas-criativas.svg" width="490" alt="Design e criatividade: interfaces, identidade visual e edição. Desenvolvimento: web, aplicações e ferramentas próprias. IA e automação: agentes, bots e integrações." />
-    </picture>
-  </p>
+  <p align="center"><sub>CRIAR · DESENVOLVER · EXPERIMENTAR</sub></p>
+
+  <table>
+    <tr>
+      <td align="center" width="64"><img src="assets/icons/criatividade.png" width="48" height="48" alt="Criatividade" /></td>
+      <td><strong>Design &amp; Criatividade</strong><br><sub>Interfaces · Identidade visual · Edição</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/icons/desenvolvimento.png" width="48" height="48" alt="Desenvolvimento" /></td>
+      <td><strong>Desenvolvimento</strong><br><sub>Web · Aplicações · Ferramentas próprias</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/icons/automa%C3%A7%C3%A3o.png" width="48" height="48" alt="Automação" /></td>
+      <td><strong>IA &amp; Automação</strong><br><sub>Agentes · Bots · Integrações</sub></td>
+    </tr>
+  </table>
 
   <p align="center">
     <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript" />
@@ -85,11 +84,15 @@
   <br><br>
 
   <div align="center">
-    <!-- Adicione o link do LinkedIn envolvendo este badge quando quiser -->
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <!-- LinkedIn: adicionar a URL do perfil quando estiver disponível. -->
+    <img src="assets/buttons/linkedin.svg" width="184" height="54" alt="LinkedIn" />
+    &nbsp;
+    <!-- Protteu: adicionar a URL pública quando estiver disponível. -->
+    <img src="assets/buttons/protteu.svg" width="184" height="54" alt="Protteu" />
     <br><br>
-    <!-- Adicione o link da Protteu envolvendo este badge quando quiser -->
-    <img src="https://img.shields.io/badge/Empresa-Protteu-8B5CF6?style=for-the-badge" alt="Empresa · Protteu" />
+    <a href="https://lixu.uwu.ai/"><img src="assets/buttons/portfolio.svg" width="184" height="54" alt="Portfólio" /></a>
+    &nbsp;
+    <a href="https://lixudesu.com/"><img src="assets/buttons/internet-bio.svg" width="184" height="54" alt="Internet bio" /></a>
   </div>
 </div>
 

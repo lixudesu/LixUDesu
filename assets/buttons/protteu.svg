@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="54" viewBox="0 0 184 54" role="img" aria-label="Protteu">
+  <title>Protteu</title>
+  <rect x="1" y="1" width="182" height="52" rx="16" fill="#fceef4" stroke="#bd7194" stroke-opacity=".35"/>
+  <g fill="none" stroke="#bd7194" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21 22 9-5 9 5v11l-9 5-9-5Z"/><path d="m21 22 9 5 9-5m-9 5v11"/></g>
+  <text x="55" y="32" fill="#304d59" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Protteu</text>
+  <path d="m163 14 1.2 3.8 3.8 1.2-3.8 1.2-1.2 3.8-1.2-3.8-3.8-1.2 3.8-1.2Z" fill="#bd7194" opacity=".45"/>
+</svg>
